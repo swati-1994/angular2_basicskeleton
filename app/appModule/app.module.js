@@ -17,6 +17,7 @@ var footer_1 = require("../footer");
 var router_1 = require('@angular/router');
 var app_signup_component_1 = require("../appComponent/app.signup.component");
 var signup_1 = require("../signup");
+// import {AppLoginComponent} from "../appComponent/app.login.component";
 var AppModule = (function () {
     function AppModule() {
     }
@@ -28,13 +29,21 @@ var AppModule = (function () {
                         path: 'signup',
                         component: app_signup_component_1.appSignupComponent
                     },
+                    // {
+                    //     path: 'login',
+                    //     component: AppLoginComponent
+                    // },
                     {
                         path: 'login',
-                        component: LogIn_1.loginComponent
+                        component: app_component_1.AppComponent
+                    },
+                    {
+                        path: 'app',
+                        component: app_component_1.AppComponent
                     },
                     {
                         path: '',
-                        redirectTo: '/login',
+                        redirectTo: '/app',
                         pathMatch: 'full'
                     }
                 ])

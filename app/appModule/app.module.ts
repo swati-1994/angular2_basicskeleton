@@ -7,6 +7,7 @@ import {footerComponent} from "../footer";
 import {RouterModule}   from '@angular/router';
 import {appSignupComponent} from "../appComponent/app.signup.component";
 import {signupComponent} from "../signup";
+// import {AppLoginComponent} from "../appComponent/app.login.component";
 
 @NgModule({
     imports: [BrowserModule,
@@ -15,13 +16,24 @@ import {signupComponent} from "../signup";
                 path: 'signup',
                 component: appSignupComponent
             },
+            // {
+            //     path: 'login',
+            //     component: AppLoginComponent
+            // },
+
             {
-                path: 'login',
-                component: loginComponent
+
+                path:'login',
+                component:AppComponent
+
+            },
+            {
+                path: 'app',
+                component: AppComponent
             },
             {
                 path: '',
-                redirectTo: '/login',
+                redirectTo: '/app',
                 pathMatch: 'full'
             }
         ])

@@ -3,7 +3,7 @@ import {Component} from '@angular/core';
     selector: 'my-app',
     templateUrl: '/app/appComponent/app.login.component.html'
 })
-export class AppComponent {
+export class AppLoginComponent {
     constructor() {
     }
 }
