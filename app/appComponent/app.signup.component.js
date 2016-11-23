@@ -8,21 +8,21 @@ var __decorate = (this && this.__decorate) || function (decorators, target, key,
 var __metadata = (this && this.__metadata) || function (k, v) {
     if (typeof Reflect === "object" && typeof Reflect.metadata === "function") return Reflect.metadata(k, v);
 };
+/**
+ * Created by swati on 23/11/16.
+ */
 var core_1 = require('@angular/core');
-var platform_browser_1 = require('@angular/platform-browser');
-var app_component_1 = require('./appComponent/app.component');
-var AppModule = (function () {
-    function AppModule() {
+var appSignupComponent = (function () {
+    function appSignupComponent() {
     }
-    AppModule = __decorate([
-        core_1.NgModule({
-            imports: [platform_browser_1.BrowserModule],
-            declarations: [app_component_1.AppComponent],
-            bootstrap: [app_component_1.AppComponent]
+    appSignupComponent = __decorate([
+        core_1.Component({
+            selector: 'my-signup-component',
+            templateUrl: '/app/appComponent/app.signup.component.html'
         }), 
         __metadata('design:paramtypes', [])
-    ], AppModule);
-    return AppModule;
+    ], appSignupComponent);
+    return appSignupComponent;
 }());
-exports.AppModule = AppModule;
-//# sourceMappingURL=app.module.js.map
+exports.appSignupComponent = appSignupComponent;
+//# sourceMappingURL=app.signup.component.js.map
