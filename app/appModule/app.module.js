@@ -14,13 +14,22 @@ var app_component_1 = require('../appComponent/app.component');
 var LogIn_1 = require('../LogIn');
 var header_1 = require("../header");
 var footer_1 = require("../footer");
+var router_1 = require('@angular/router');
+var app_signup_component_1 = require("../appComponent/app.signup.component");
 var AppModule = (function () {
     function AppModule() {
     }
     AppModule = __decorate([
         core_1.NgModule({
-            imports: [platform_browser_1.BrowserModule],
-            declarations: [app_component_1.AppComponent, LogIn_1.loginComponent, header_1.headerComponent, footer_1.footerComponent],
+            imports: [platform_browser_1.BrowserModule,
+                router_1.RouterModule.forRoot([
+                    {
+                        path: 'signup',
+                        component: app_signup_component_1.appSignupComponent
+                    }
+                ])
+            ],
+            declarations: [app_component_1.AppComponent, LogIn_1.loginComponent, header_1.headerComponent, footer_1.footerComponent, app_signup_component_1.appSignupComponent],
             bootstrap: [app_component_1.AppComponent]
         }), 
         __metadata('design:paramtypes', [])
