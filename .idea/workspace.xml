@@ -2,45 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6b1bcbf9-25ac-48b1-8020-8f4a367f15b5" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/e_change_node_modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/appComponents/app.login.component.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/appComponents/app.login.component.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/appComponents/app.signup.component.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/appComponents/app.signup.component.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/appComponents/footer.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/login/app.login.component.html" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/app/login/app.login.component.js" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/app/login/app.login.component.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/login/app.login.component.ts" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/app/signup/app.signup.component.js" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/app/signup/app.signup.component.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/signup/app.signup.component.ts" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/signup/app.signup.coponent.html" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/Fonts/FontAwesome.otf" afterPath="$PROJECT_DIR$/app/fonts/FontAwesome.otf" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/Fonts/Roboto-Bold.ttf" afterPath="$PROJECT_DIR$/app/fonts/Roboto-Bold.ttf" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/Fonts/Roboto-Light.ttf" afterPath="$PROJECT_DIR$/app/fonts/Roboto-Light.ttf" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/Fonts/Roboto-Regular.ttf" afterPath="$PROJECT_DIR$/app/fonts/Roboto-Regular.ttf" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/Fonts/fontawesome-webfont.eot" afterPath="$PROJECT_DIR$/app/fonts/fontawesome-webfont.eot" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/Fonts/fontawesome-webfont.svg" afterPath="$PROJECT_DIR$/app/fonts/fontawesome-webfont.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/Fonts/fontawesome-webfont.ttf" afterPath="$PROJECT_DIR$/app/fonts/fontawesome-webfont.ttf" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/Fonts/fontawesome-webfont.woff" afterPath="$PROJECT_DIR$/app/fonts/fontawesome-webfont.woff" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/Fonts/fontawesome-webfont.woff2" afterPath="$PROJECT_DIR$/app/fonts/fontawesome-webfont.woff2" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/e_change.iml" afterPath="$PROJECT_DIR$/.idea/e_change.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/appComponents/app.component.html" afterPath="$PROJECT_DIR$/app/appComponents/app.component.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/appComponents/appFooter/footer.html" afterPath="$PROJECT_DIR$/app/appComponents/appFooter/footer.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/appComponents/appHeader/header.html" afterPath="$PROJECT_DIR$/app/appComponents/appHeader/header.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/appComponents/appHeader/header.js.map" afterPath="$PROJECT_DIR$/app/appComponents/appHeader/header.js.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/appComponents/appHeader/header.ts" afterPath="$PROJECT_DIR$/app/appComponents/appHeader/header.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/appModule/app.module.js" afterPath="$PROJECT_DIR$/app/appModule/app.module.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/appModule/app.module.js.map" afterPath="$PROJECT_DIR$/app/appModule/app.module.js.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/appModule/app.module.ts" afterPath="$PROJECT_DIR$/app/appModule/app.module.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/login/LogIn.html" afterPath="$PROJECT_DIR$/app/login/LogIn.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/login/LogIn.js.map" afterPath="$PROJECT_DIR$/app/login/LogIn.js.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/login/LogIn.ts" afterPath="$PROJECT_DIR$/app/login/LogIn.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/signup/signup.ts" afterPath="$PROJECT_DIR$/app/signup/signup.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/style.css" afterPath="$PROJECT_DIR$/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/login/LogIn.js" afterPath="$PROJECT_DIR$/app/login/LogIn.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/signup/signup.js" afterPath="$PROJECT_DIR$/app/signup/signup.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/signup/signup.js.map" afterPath="$PROJECT_DIR$/app/signup/signup.js.map" />
     </list>
     <ignored path="e_change.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -59,38 +28,7 @@
     <favorites_list name="e_change" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="LogIn.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/login/LogIn.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LogIn.ts" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/login/LogIn.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="signup.ts" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/signup/signup.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -329,7 +267,7 @@
       <workItem from="1479897232531" duration="12613000" />
       <workItem from="1479966608294" duration="10756000" />
       <workItem from="1479987349591" duration="1156000" />
-      <workItem from="1479988848100" duration="431000" />
+      <workItem from="1479988848100" duration="541000" />
     </task>
     <task id="LOCAL-00001" summary="1. Components added.">
       <created>1479892444018</created>
@@ -345,11 +283,18 @@
       <option name="project" value="LOCAL" />
       <updated>1479899404303</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="1. removed extra files&#10;">
+      <created>1479989306955</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1479989306955</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="45183000" />
+    <option name="totallyTimeSpent" value="45293000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="51" y="24" width="1315" height="744" extended-state="6" />
@@ -359,6 +304,7 @@
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24942966" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32935917" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32935917" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32935917" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
@@ -369,7 +315,6 @@
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32935917" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
     </layout>
@@ -410,7 +355,8 @@
     <MESSAGE value="1. Components added." />
     <MESSAGE value="1. Router done. thanks" />
     <MESSAGE value="1. Router done." />
-    <option name="LAST_COMMIT_MESSAGE" value="1. Router done." />
+    <MESSAGE value="1. removed extra files&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="1. removed extra files&#10;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -678,18 +624,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/login/LogIn.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/signup/app.signup.component.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="6" column="20" lean-forward="false" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/signup/signup.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -702,10 +648,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/signup/signup.ts">
+    <entry file="file://$PROJECT_DIR$/app/login/LogIn.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="360">
+          <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
           <folding />
         </state>
       </provider>

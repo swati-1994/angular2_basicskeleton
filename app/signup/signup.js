@@ -8,12 +8,6 @@ var __decorate = (this && this.__decorate) || function (decorators, target, key,
 var __metadata = (this && this.__metadata) || function (k, v) {
     if (typeof Reflect === "object" && typeof Reflect.metadata === "function") return Reflect.metadata(k, v);
 };
-/**
- * Created by swati on 23/11/16.
- */
-/**
- * Created by swati on 23/11/16.
- */
 var core_1 = require('@angular/core');
 var signupComponent = (function () {
     function signupComponent() {
@@ -21,7 +15,7 @@ var signupComponent = (function () {
     signupComponent = __decorate([
         core_1.Component({
             selector: 'my-signup',
-            templateUrl: 'app/signup/signup.html'
+            templateUrl: './app/signup/signup.html'
         }), 
         __metadata('design:paramtypes', [])
     ], signupComponent);
