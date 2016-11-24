@@ -18,12 +18,8 @@ import {signupComponent} from "../signup/signup";
                 component: loginComponent
             },
             {
-                path: 'app',
-                component: AppComponent
-            },
-            {
                 path: '',
-                redirectTo: '/app',
+                redirectTo: '/login',
                 pathMatch: 'full'
             }
         ])

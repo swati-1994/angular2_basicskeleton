@@ -32,12 +32,8 @@ var AppModule = (function () {
                         component: LogIn_1.loginComponent
                     },
                     {
-                        path: 'app',
-                        component: app_component_1.AppComponent
-                    },
-                    {
                         path: '',
-                        redirectTo: '/app',
+                        redirectTo: '/login',
                         pathMatch: 'full'
                     }
                 ])
