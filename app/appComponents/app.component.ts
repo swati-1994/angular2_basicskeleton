@@ -1,9 +1,9 @@
 import {Component} from '@angular/core';
 @Component({
     selector: 'my-app',
-    templateUrl: '/app/appComponent/app.login.component.html'
+    templateUrl: '/app/login/app.login.component.html'
 })
-export class AppLoginComponent {
+export class AppComponent {
     constructor() {
     }
 }

@@ -11,13 +11,13 @@ var __metadata = (this && this.__metadata) || function (k, v) {
 var core_1 = require('@angular/core');
 var platform_browser_1 = require('@angular/platform-browser');
 // import {AppComponent}   from '../appComponent/app.component';
-var LogIn_1 = require('../LogIn');
-var header_1 = require("../header");
-var footer_1 = require("../footer");
+var LogIn_1 = require('../login/LogIn');
+var header_1 = require("../appComponents/appHeader/header");
+var footer_1 = require("../appComponents/footer");
 var router_1 = require('@angular/router');
-var app_signup_component_1 = require("../appComponent/app.signup.component");
-var signup_1 = require("../signup");
-var app_login_component_1 = require("../appComponent/app.login.component");
+var app_signup_component_1 = require("../signup/app.signup.component");
+var signup_1 = require("../signup/signup");
+var app_login_component_1 = require("../login/app.login.component");
 var AppModule = (function () {
     function AppModule() {
     }
@@ -49,7 +49,7 @@ var AppModule = (function () {
                     },
                     {
                         path: '',
-                        redirectTo: '/app',
+                        redirectTo: '/login',
                         pathMatch: 'full'
                     }
                 ])

@@ -11,21 +11,18 @@ var __metadata = (this && this.__metadata) || function (k, v) {
 /**
  * Created by swati on 23/11/16.
  */
-/**
- * Created by swati on 23/11/16.
- */
 var core_1 = require('@angular/core');
-var footerComponent = (function () {
-    function footerComponent() {
+var appSignupComponent = (function () {
+    function appSignupComponent() {
     }
-    footerComponent = __decorate([
+    appSignupComponent = __decorate([
         core_1.Component({
-            selector: 'my-footer',
-            templateUrl: './app/footer.html'
+            selector: 'my-signup-component',
+            templateUrl: '../signup/app.signup.coponent.html'
         }), 
         __metadata('design:paramtypes', [])
-    ], footerComponent);
-    return footerComponent;
+    ], appSignupComponent);
+    return appSignupComponent;
 }());
-exports.footerComponent = footerComponent;
-//# sourceMappingURL=footer.js.map
+exports.appSignupComponent = appSignupComponent;
+//# sourceMappingURL=app.signup.component.js.map

@@ -8,18 +8,21 @@ var __decorate = (this && this.__decorate) || function (decorators, target, key,
 var __metadata = (this && this.__metadata) || function (k, v) {
     if (typeof Reflect === "object" && typeof Reflect.metadata === "function") return Reflect.metadata(k, v);
 };
+/**
+ * Created by swati on 23/11/16.
+ */
 var core_1 = require('@angular/core');
-var AppLoginComponent = (function () {
-    function AppLoginComponent() {
+var headerComponent = (function () {
+    function headerComponent() {
     }
-    AppLoginComponent = __decorate([
+    headerComponent = __decorate([
         core_1.Component({
-            selector: 'my-app',
-            templateUrl: '/app/appComponent/app.login.component.html'
+            selector: 'my-header',
+            templateUrl: 'appComponents/appHeader/header.html'
         }), 
         __metadata('design:paramtypes', [])
-    ], AppLoginComponent);
-    return AppLoginComponent;
+    ], headerComponent);
+    return headerComponent;
 }());
-exports.AppLoginComponent = AppLoginComponent;
-//# sourceMappingURL=app.login.component.js.map
+exports.headerComponent = headerComponent;
+//# sourceMappingURL=header.js.map

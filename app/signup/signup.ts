@@ -7,7 +7,7 @@
 import { Component } from '@angular/core';
 @Component({
     selector: 'my-signup',
-    templateUrl: './app/signup.html'
+    templateUrl: '../signup.html'
 })
 export class signupComponent {
 
