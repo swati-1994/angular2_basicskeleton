@@ -10,14 +10,12 @@ var __metadata = (this && this.__metadata) || function (k, v) {
 };
 var core_1 = require('@angular/core');
 var platform_browser_1 = require('@angular/platform-browser');
-// import {AppComponent}   from '../appComponent/app.component';
+var app_component_1 = require('../appComponents/app.component');
 var LogIn_1 = require('../login/LogIn');
 var header_1 = require("../appComponents/appHeader/header");
 var footer_1 = require("../appComponents/appFooter/footer");
 var router_1 = require('@angular/router');
-var app_signup_component_1 = require("../signup/app.signup.component");
 var signup_1 = require("../signup/signup");
-var app_login_component_1 = require("../login/app.login.component");
 var AppModule = (function () {
     function AppModule() {
     }
@@ -27,21 +25,25 @@ var AppModule = (function () {
                 router_1.RouterModule.forRoot([
                     {
                         path: 'signup',
-                        component: app_signup_component_1.appSignupComponent
+                        component: signup_1.signupComponent
                     },
                     {
                         path: 'login',
-                        component: app_login_component_1.AppLoginComponent
+                        component: LogIn_1.loginComponent
+                    },
+                    {
+                        path: 'app',
+                        component: app_component_1.AppComponent
                     },
                     {
                         path: '',
-                        redirectTo: '/login',
+                        redirectTo: '/app',
                         pathMatch: 'full'
                     }
                 ])
             ],
-            declarations: [LogIn_1.loginComponent, header_1.headerComponent, footer_1.footerComponent, app_signup_component_1.appSignupComponent, signup_1.signupComponent, app_login_component_1.AppLoginComponent],
-            bootstrap: [app_login_component_1.AppLoginComponent]
+            declarations: [app_component_1.AppComponent, LogIn_1.loginComponent, header_1.headerComponent, footer_1.footerComponent, signup_1.signupComponent],
+            bootstrap: [app_component_1.AppComponent]
         }), 
         __metadata('design:paramtypes', [])
     ], AppModule);
