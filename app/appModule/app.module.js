@@ -10,14 +10,14 @@ var __metadata = (this && this.__metadata) || function (k, v) {
 };
 var core_1 = require('@angular/core');
 var platform_browser_1 = require('@angular/platform-browser');
-var app_component_1 = require('../appComponent/app.component');
+// import {AppComponent}   from '../appComponent/app.component';
 var LogIn_1 = require('../LogIn');
 var header_1 = require("../header");
 var footer_1 = require("../footer");
 var router_1 = require('@angular/router');
 var app_signup_component_1 = require("../appComponent/app.signup.component");
 var signup_1 = require("../signup");
-// import {AppLoginComponent} from "../appComponent/app.login.component";
+var app_login_component_1 = require("../appComponent/app.login.component");
 var AppModule = (function () {
     function AppModule() {
     }
@@ -25,21 +25,27 @@ var AppModule = (function () {
         core_1.NgModule({
             imports: [platform_browser_1.BrowserModule,
                 router_1.RouterModule.forRoot([
-                    {
-                        path: 'signup',
-                        component: app_signup_component_1.appSignupComponent
-                    },
+                    // {
+                    //     path: '/app/signup',
+                    //     component: appSignupComponent
+                    // },
                     // {
                     //     path: 'login',
                     //     component: AppLoginComponent
                     // },
+                    // {
+                    //
+                    //     path:'/app/login',
+                    //     component:AppLoginComponent
+                    //
+                    // },
                     {
                         path: 'login',
-                        component: app_component_1.AppComponent
-                    },
-                    {
-                        path: 'app',
-                        component: app_component_1.AppComponent
+                        component: app_login_component_1.AppLoginComponent,
+                        children: [
+                            { path: '/login', component: app_login_component_1.AppLoginComponent },
+                            { path: '/signup', component: app_signup_component_1.appSignupComponent }
+                        ]
                     },
                     {
                         path: '',
@@ -48,8 +54,8 @@ var AppModule = (function () {
                     }
                 ])
             ],
-            declarations: [app_component_1.AppComponent, LogIn_1.loginComponent, header_1.headerComponent, footer_1.footerComponent, app_signup_component_1.appSignupComponent, signup_1.signupComponent],
-            bootstrap: [app_component_1.AppComponent]
+            declarations: [LogIn_1.loginComponent, header_1.headerComponent, footer_1.footerComponent, app_signup_component_1.appSignupComponent, signup_1.signupComponent, app_login_component_1.AppLoginComponent],
+            bootstrap: [app_login_component_1.AppLoginComponent]
         }), 
         __metadata('design:paramtypes', [])
     ], AppModule);
