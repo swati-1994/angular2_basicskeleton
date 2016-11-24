@@ -18,7 +18,7 @@ var headerComponent = (function () {
     headerComponent = __decorate([
         core_1.Component({
             selector: 'my-header',
-            templateUrl: 'appComponents/appHeader/header.html'
+            templateUrl: './app/appComponents/appHeader/header.html'
         }), 
         __metadata('design:paramtypes', [])
     ], headerComponent);

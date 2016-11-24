@@ -13,7 +13,7 @@ var platform_browser_1 = require('@angular/platform-browser');
 // import {AppComponent}   from '../appComponent/app.component';
 var LogIn_1 = require('../login/LogIn');
 var header_1 = require("../appComponents/appHeader/header");
-var footer_1 = require("../appComponents/footer");
+var footer_1 = require("../appComponents/appFooter/footer");
 var router_1 = require('@angular/router');
 var app_signup_component_1 = require("../signup/app.signup.component");
 var signup_1 = require("../signup/signup");
@@ -25,28 +25,20 @@ var AppModule = (function () {
         core_1.NgModule({
             imports: [platform_browser_1.BrowserModule,
                 router_1.RouterModule.forRoot([
-                    // {
-                    //     path: '/app/signup',
-                    //     component: appSignupComponent
-                    // },
-                    // {
-                    //     path: 'login',
-                    //     component: AppLoginComponent
-                    // },
+                    {
+                        path: 'signup',
+                        component: app_signup_component_1.appSignupComponent
+                    },
+                    {
+                        path: 'login',
+                        component: app_login_component_1.AppLoginComponent
+                    },
                     // {
                     //
                     //     path:'/app/login',
                     //     component:AppLoginComponent
                     //
                     // },
-                    {
-                        path: 'login',
-                        component: app_login_component_1.AppLoginComponent,
-                        children: [
-                            { path: '/login', component: app_login_component_1.AppLoginComponent },
-                            { path: '/signup', component: app_signup_component_1.appSignupComponent }
-                        ]
-                    },
                     {
                         path: '',
                         redirectTo: '/login',

@@ -2,57 +2,30 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6b1bcbf9-25ac-48b1-8020-8f4a367f15b5" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/appComponents/app.component.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/appComponents/app.component.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/appComponents/app.login.component.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/appComponents/footer.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/login/app.login.component.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/signup/app.signup.component.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/signup/app.signup.component.js.map" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/app.component.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/app.module.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/app.module.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/appComponent/app.component.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/appComponent/app.component.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/appComponent/app.component.ts" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/footer.html" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/LogIn.html" afterPath="$PROJECT_DIR$/app/login/LogIn.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/LogIn.js" afterPath="$PROJECT_DIR$/app/login/LogIn.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/LogIn.js.map" afterPath="$PROJECT_DIR$/app/login/LogIn.js.map" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/LogIn.ts" afterPath="$PROJECT_DIR$/app/login/LogIn.ts" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/app.component.js" afterPath="$PROJECT_DIR$/app/appComponents/app.component.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/appComponent/app.component.html" afterPath="$PROJECT_DIR$/app/appComponents/app.component.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/appComponent/app.login.component.html" afterPath="$PROJECT_DIR$/app/login/app.login.component.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/appComponent/app.login.component.js" afterPath="$PROJECT_DIR$/app/login/app.login.component.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/appComponent/app.login.component.js.map" afterPath="$PROJECT_DIR$/app/appComponents/app.login.component.js.map" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/appComponent/app.login.component.ts" afterPath="$PROJECT_DIR$/app/login/app.login.component.ts" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/appComponent/app.signup.component.js" afterPath="$PROJECT_DIR$/app/appComponents/app.signup.component.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/appComponent/app.signup.component.js.map" afterPath="$PROJECT_DIR$/app/appComponents/app.signup.component.js.map" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/appComponent/app.signup.component.ts" afterPath="$PROJECT_DIR$/app/signup/app.signup.component.ts" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/appComponent/app.signup.coponent.html" afterPath="$PROJECT_DIR$/app/signup/app.signup.coponent.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/footer.js" afterPath="$PROJECT_DIR$/app/appComponents/appFooter/footer.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/footer.js.map" afterPath="$PROJECT_DIR$/app/appComponents/appFooter/footer.js.map" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/footer.ts" afterPath="$PROJECT_DIR$/app/appComponents/appFooter/footer.ts" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/header.html" afterPath="$PROJECT_DIR$/app/appComponents/appHeader/header.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/header.js" afterPath="$PROJECT_DIR$/app/appComponents/appHeader/header.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/header.js.map" afterPath="$PROJECT_DIR$/app/appComponents/appHeader/header.js.map" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/header.ts" afterPath="$PROJECT_DIR$/app/appComponents/appHeader/header.ts" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/signup.html" afterPath="$PROJECT_DIR$/app/signup/signup.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/signup.js" afterPath="$PROJECT_DIR$/app/signup/signup.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/signup.js.map" afterPath="$PROJECT_DIR$/app/signup/signup.js.map" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/signup.ts" afterPath="$PROJECT_DIR$/app/signup/signup.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Fonts/FontAwesome.otf" afterPath="$PROJECT_DIR$/app/Fonts/FontAwesome.otf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Fonts/Roboto-Bold.ttf" afterPath="$PROJECT_DIR$/app/Fonts/Roboto-Bold.ttf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Fonts/Roboto-Light.ttf" afterPath="$PROJECT_DIR$/app/Fonts/Roboto-Light.ttf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Fonts/Roboto-Regular.ttf" afterPath="$PROJECT_DIR$/app/Fonts/Roboto-Regular.ttf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Fonts/fontawesome-webfont.eot" afterPath="$PROJECT_DIR$/app/Fonts/fontawesome-webfont.eot" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Fonts/fontawesome-webfont.ttf" afterPath="$PROJECT_DIR$/app/Fonts/fontawesome-webfont.ttf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Fonts/fontawesome-webfont.woff" afterPath="$PROJECT_DIR$/app/Fonts/fontawesome-webfont.woff" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Fonts/fontawesome-webfont.woff2" afterPath="$PROJECT_DIR$/app/Fonts/fontawesome-webfont.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/appComponents/appFooter/footer.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/appComponents/appFooter/footer.js" afterPath="$PROJECT_DIR$/app/appComponents/appFooter/footer.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/appComponents/appFooter/footer.js.map" afterPath="$PROJECT_DIR$/app/appComponents/appFooter/footer.js.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/appComponents/appFooter/footer.ts" afterPath="$PROJECT_DIR$/app/appComponents/appFooter/footer.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/appComponents/appHeader/header.html" afterPath="$PROJECT_DIR$/app/appComponents/appHeader/header.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/appComponents/appHeader/header.js" afterPath="$PROJECT_DIR$/app/appComponents/appHeader/header.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/appComponents/appHeader/header.js.map" afterPath="$PROJECT_DIR$/app/appComponents/appHeader/header.js.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/appComponents/appHeader/header.ts" afterPath="$PROJECT_DIR$/app/appComponents/appHeader/header.ts" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/appModule/app.module.js" afterPath="$PROJECT_DIR$/app/appModule/app.module.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/appModule/app.module.js.map" afterPath="$PROJECT_DIR$/app/appModule/app.module.js.map" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/appModule/app.module.ts" afterPath="$PROJECT_DIR$/app/appModule/app.module.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/login/LogIn.js" afterPath="$PROJECT_DIR$/app/login/LogIn.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/login/LogIn.js.map" afterPath="$PROJECT_DIR$/app/login/LogIn.js.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/login/LogIn.ts" afterPath="$PROJECT_DIR$/app/login/LogIn.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/login/app.login.component.js" afterPath="$PROJECT_DIR$/app/login/app.login.component.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/login/app.login.component.js.map" afterPath="$PROJECT_DIR$/app/login/app.login.component.js.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/login/app.login.component.ts" afterPath="$PROJECT_DIR$/app/login/app.login.component.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/signup/app.signup.component.js" afterPath="$PROJECT_DIR$/app/signup/app.signup.component.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/signup/app.signup.component.js.map" afterPath="$PROJECT_DIR$/app/signup/app.signup.component.js.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/signup/app.signup.component.ts" afterPath="$PROJECT_DIR$/app/signup/app.signup.component.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/signup/signup.js" afterPath="$PROJECT_DIR$/app/signup/signup.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/signup/signup.js.map" afterPath="$PROJECT_DIR$/app/signup/signup.js.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/signup/signup.ts" afterPath="$PROJECT_DIR$/app/signup/signup.ts" />
     </list>
     <ignored path="e_change.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -72,7 +45,110 @@
     <favorites_list name="e_change" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf>
+      <file leaf-file-name="header.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/appComponents/appHeader/header.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="6" column="24" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="footer.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/appComponents/appFooter/footer.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="9" column="37" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="signup.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/signup/signup.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="11" column="30" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app.signup.component.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/signup/app.signup.component.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app.module.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/appModule/app.module.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="20" column="23" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="23" />
+              <folding>
+                <element signature="e#167#212#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app.component.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/appComponents/app.component.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app.component.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/appComponents/app.component.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="header.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/appComponents/appHeader/header.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="21" column="10" selection-start-line="21" selection-start-column="10" selection-end-line="21" selection-end-column="43" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LogIn.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/login/LogIn.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="6" column="24" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app.login.component.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/login/app.login.component.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" column="19" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -112,9 +188,17 @@
         <option value="$PROJECT_DIR$/app/appComponent/app.component.js" />
         <option value="$PROJECT_DIR$/app/appComponent/app.login.component.ts" />
         <option value="$PROJECT_DIR$/app/appComponent/app.login.component.js" />
-        <option value="$PROJECT_DIR$/app/appModule/app.module.ts" />
         <option value="$PROJECT_DIR$/app/header.html" />
         <option value="$PROJECT_DIR$/app/appComponent/app.component.ts" />
+        <option value="$PROJECT_DIR$/app/appComponents/appFooter/footer.html" />
+        <option value="$PROJECT_DIR$/app/appModule/app.module.ts" />
+        <option value="$PROJECT_DIR$/app/appComponents/appHeader/header.html" />
+        <option value="$PROJECT_DIR$/app/login/app.login.component.ts" />
+        <option value="$PROJECT_DIR$/app/login/LogIn.ts" />
+        <option value="$PROJECT_DIR$/app/appComponents/appHeader/header.ts" />
+        <option value="$PROJECT_DIR$/app/appComponents/appFooter/footer.ts" />
+        <option value="$PROJECT_DIR$/app/signup/app.signup.component.ts" />
+        <option value="$PROJECT_DIR$/app/signup/signup.ts" />
       </list>
     </option>
   </component>
@@ -155,6 +239,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -187,14 +272,107 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="e_change" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="e_change" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="signup" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="e_change" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="e_change" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="login" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="e_change" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="e_change" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="appModule" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="e_change" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="e_change" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="appComponents" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="e_change" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="e_change" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="appComponents" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="appHeader" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/angular2_basicskeleton-master" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="js-jscs-nodeInterpreter" value="/usr/bin/node" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
@@ -304,7 +482,8 @@
       <workItem from="1479827688692" duration="1427000" />
       <workItem from="1479873972421" duration="18800000" />
       <workItem from="1479897232531" duration="12613000" />
-      <workItem from="1479966608294" duration="9543000" />
+      <workItem from="1479966608294" duration="10756000" />
+      <workItem from="1479987349591" duration="1156000" />
     </task>
     <task id="LOCAL-00001" summary="1. Components added.">
       <created>1479892444018</created>
@@ -324,28 +503,28 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="42383000" />
+    <option name="totallyTimeSpent" value="44752000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="24" width="1301" height="744" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24980783" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24980783" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32935917" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32935917" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32935917" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -370,22 +549,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/signup/signup.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="630">
-          <caret line="42" column="0" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/appComponents/appComponent/app.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/appComponents/appHeader/header.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
@@ -402,19 +565,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/appComponents/appComponent/app.component.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/app/appComponents/appComponent/app.component.ts" />
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
           <caret line="1" column="6" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -422,7 +577,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="615">
           <caret line="41" column="13" selection-start-line="41" selection-start-column="13" selection-end-line="41" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -445,7 +599,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="630">
           <caret line="42" column="0" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -453,7 +606,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="e#167#212#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -461,23 +616,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
           <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/appComponents/appComponent/app.component.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="18" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/app/appComponents/appComponent/app.component.ts" />
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
           <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -485,7 +631,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -493,28 +638,11 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="630">
           <caret line="42" column="0" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/LogIn.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/LogIn.js.map">
-      <provider editor-type-id="sourcemapFileViewerProvider">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/app/LogIn.js" />
+    <entry file="file://$PROJECT_DIR$/app/LogIn.js.map" />
     <entry file="file://$PROJECT_DIR$/node_modules/font-awesome/css/font-awesome.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
@@ -522,23 +650,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/appComponents/footer.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/footer.js.map">
-      <provider editor-type-id="sourcemapFileViewerProvider">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/app/appComponents/footer.html" />
+    <entry file="file://$PROJECT_DIR$/app/footer.js.map" />
     <entry file="file://$PROJECT_DIR$/app/appModule/app.module.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -547,22 +660,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/app.module.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/app.component.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/app/app.module.js" />
+    <entry file="file://$PROJECT_DIR$/app/app.component.js" />
     <entry file="file://$PROJECT_DIR$/tsconfig.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -575,7 +674,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
           <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="e#167#212#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -583,7 +684,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
           <caret line="1" column="51" selection-start-line="1" selection-start-column="51" selection-end-line="1" selection-end-column="51" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -594,13 +694,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/appComponents/footer.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="11" column="28" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/app/appComponents/footer.ts" />
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="527">
@@ -608,38 +702,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/signup/signup.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="11" column="28" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/signup/signup.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="630">
           <caret line="42" column="0" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/appComponents/appComponent/app.component.js.map">
-      <provider editor-type-id="sourcemapFileViewerProvider">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/app/appComponents/appComponent/app.component.js.map" />
     <entry file="file://$PROJECT_DIR$/app/signup/app.signup.coponent.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="68" selection-start-line="0" selection-start-column="68" selection-end-line="0" selection-end-column="68" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -647,7 +721,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-2787">
           <caret line="41" column="13" selection-start-line="41" selection-start-column="13" selection-end-line="41" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -655,30 +728,18 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
           <caret line="20" column="11" selection-start-line="20" selection-start-column="11" selection-end-line="20" selection-end-column="11" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/login/LogIn.html">
+    <entry file="file://$PROJECT_DIR$/app/appComponents/appComponent/app.component.js" />
+    <entry file="file://$PROJECT_DIR$/app/appComponents/appComponent/app.login.component.js" />
+    <entry file="file://$PROJECT_DIR$/app/appComponents/appComponent/app.login.component.js" />
+    <entry file="file://$PROJECT_DIR$/app/appComponents/appComponent/app.component.html" />
+    <entry file="file://$PROJECT_DIR$/app/appComponents/appComponent/app.component.ts" />
+    <entry file="file://$PROJECT_DIR$/app/appComponents/appFooter/footer.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="660">
-          <caret line="44" column="66" selection-start-line="44" selection-start-column="66" selection-end-line="44" selection-end-column="66" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/login/LogIn.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="6" column="24" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/appComponents/appComponent/app.component.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="105">
+          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
           <folding />
         </state>
       </provider>
@@ -691,74 +752,76 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/appComponents/appHeader/header.ts">
+    <entry file="file://$PROJECT_DIR$/app/login/LogIn.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="8" column="30" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/appComponents/appComponent/app.login.component.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/appComponents/appComponent/app.login.component.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="660">
+          <caret line="44" column="66" selection-start-line="44" selection-start-column="66" selection-end-line="44" selection-end-column="66" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/login/app.login.component.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+        <state relative-caret-position="45">
+          <caret line="3" column="19" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/appComponents/appComponent/app.component.html">
+    <entry file="file://$PROJECT_DIR$/app/login/LogIn.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+        <state relative-caret-position="60">
+          <caret line="6" column="24" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/appComponents/appHeader/header.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="6" column="24" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/appComponents/appFooter/footer.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="9" column="37" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/signup/app.signup.component.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="8" column="33" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
+        <state relative-caret-position="60">
+          <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/appComponents/appHeader/header.html">
+    <entry file="file://$PROJECT_DIR$/app/signup/signup.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="67" selection-start-line="16" selection-start-column="67" selection-end-line="16" selection-end-column="67" />
+        <state relative-caret-position="135">
+          <caret line="11" column="30" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/appModule/app.module.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="371">
-          <caret line="40" column="35" selection-start-line="40" selection-start-column="35" selection-end-line="40" selection-end-column="35" />
-          <folding />
+        <state relative-caret-position="195">
+          <caret line="20" column="23" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="23" />
+          <folding>
+            <element signature="e#167#212#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/appComponents/appComponent/app.component.ts">
+    <entry file="file://$PROJECT_DIR$/app/appComponents/app.component.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -771,10 +834,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/appComponents/appFooter/footer.ts">
+    <entry file="file://$PROJECT_DIR$/app/appComponents/appHeader/header.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="315">
+          <caret line="21" column="10" selection-start-line="21" selection-start-column="10" selection-end-line="21" selection-end-column="43" />
           <folding />
         </state>
       </provider>

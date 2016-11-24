@@ -21,7 +21,7 @@ var signupComponent = (function () {
     signupComponent = __decorate([
         core_1.Component({
             selector: 'my-signup',
-            templateUrl: '../signup.html'
+            templateUrl: 'app/signup/signup.html'
         }), 
         __metadata('design:paramtypes', [])
     ], signupComponent);
