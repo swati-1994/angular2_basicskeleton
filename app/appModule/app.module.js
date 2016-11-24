@@ -33,12 +33,6 @@ var AppModule = (function () {
                         path: 'login',
                         component: app_login_component_1.AppLoginComponent
                     },
-                    // {
-                    //
-                    //     path:'/app/login',
-                    //     component:AppLoginComponent
-                    //
-                    // },
                     {
                         path: '',
                         redirectTo: '/login',

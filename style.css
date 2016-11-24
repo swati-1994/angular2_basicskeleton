@@ -39,16 +39,16 @@ img{    max-width: 100%;
 
 @font-face {
     font-family: Roboto-Regular;
-    src: url(app/Fonts/Roboto-Regular.ttf);
+    src: url(app/fonts/Roboto-Regular.ttf);
 }
 @font-face {
     font-family: Roboto-Bold;
-    src: url(app/Fonts/Roboto-Bold.ttf);
+    src: url(app/fonts/Roboto-Bold.ttf);
 }
 
 @font-face {
     font-family: Roboto-Light;
-    src: url(app/Fonts/Roboto-Light.ttf);
+    src: url(app/fonts/Roboto-Light.ttf);
 }
 
 

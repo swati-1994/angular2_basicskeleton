@@ -21,14 +21,6 @@ import {AppLoginComponent} from "../login/app.login.component";
                 path: 'login',
                 component: AppLoginComponent
             },
-
-            // {
-            //
-            //     path:'/app/login',
-            //     component:AppLoginComponent
-            //
-            // },
-           
             {
                 path: '',
                 redirectTo: '/login',
@@ -38,7 +30,7 @@ import {AppLoginComponent} from "../login/app.login.component";
 
         ])
     ],
-    declarations: [ loginComponent, headerComponent, footerComponent, appSignupComponent, signupComponent,AppLoginComponent],
+    declarations: [loginComponent, headerComponent, footerComponent, appSignupComponent, signupComponent, AppLoginComponent],
     bootstrap: [AppLoginComponent]
 })
 export class AppModule {
