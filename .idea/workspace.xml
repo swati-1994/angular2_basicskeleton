@@ -2,29 +2,328 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6b1bcbf9-25ac-48b1-8020-8f4a367f15b5" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/details/details.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/details/details.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/listing/listing.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/listing/listing.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/qr_code/qr_code.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/qr_code/qr_code.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/settings/settings.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/settings/settings.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/Untitled-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/pic_pluse.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/qr.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/angular2_basicskeleton_node_modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/details/details.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/details/details.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/drop_downs/account_settings/account_settings.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/drop_downs/account_settings/account_settings.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/drop_downs/my_account/my_account.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/drop_downs/my_account/my_account.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/listing/date_picker/date_picker.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/listing/date_picker/date_picker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/listing/date_picker/date_picker.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/listing/date_picker/date_picker.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/listing/listing.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/listing/listing.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/qr_code/qr_code.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/qr_code/qr_code.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/settings/settings.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/settings/settings.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/accordion/accordion-config.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/accordion/accordion-config.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/accordion/accordion-config.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/accordion/accordion-config.metadata.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/accordion/accordion.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/accordion/accordion.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/accordion/accordion.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/accordion/accordion.metadata.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/accordion/accordion.module.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/accordion/accordion.module.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/accordion/accordion.module.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/accordion/accordion.module.metadata.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/alert/alert-config.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/alert/alert-config.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/alert/alert-config.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/alert/alert-config.metadata.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/alert/alert.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/alert/alert.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/alert/alert.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/alert/alert.metadata.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/alert/alert.module.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/alert/alert.module.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/alert/alert.module.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/alert/alert.module.metadata.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/bundles/ng-bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/bundles/ng-bootstrap.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/buttons/radio.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/buttons/radio.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/buttons/radio.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/buttons/radio.metadata.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/buttons/radio.module.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/buttons/radio.module.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/buttons/radio.module.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/buttons/radio.module.metadata.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/carousel/carousel-config.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/carousel/carousel-config.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/carousel/carousel-config.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/carousel/carousel-config.metadata.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/carousel/carousel.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/carousel/carousel.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/carousel/carousel.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/carousel/carousel.metadata.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/carousel/carousel.module.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/carousel/carousel.module.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/carousel/carousel.module.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/carousel/carousel.module.metadata.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/collapse/collapse.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/collapse/collapse.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/collapse/collapse.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/collapse/collapse.metadata.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/collapse/collapse.module.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/collapse/collapse.module.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/collapse/collapse.module.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/collapse/collapse.module.metadata.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/datepicker/datepicker-config.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/datepicker/datepicker-config.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/datepicker/datepicker-config.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/datepicker/datepicker-config.metadata.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/datepicker/datepicker-day-template-context.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/datepicker/datepicker-day-template-context.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/datepicker/datepicker-day-template-context.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/datepicker/datepicker-day-view.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/datepicker/datepicker-day-view.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/datepicker/datepicker-day-view.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/datepicker/datepicker-day-view.metadata.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/datepicker/datepicker-i18n.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/datepicker/datepicker-i18n.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/datepicker/datepicker-i18n.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/datepicker/datepicker-i18n.metadata.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/datepicker/datepicker-input.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/datepicker/datepicker-input.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/datepicker/datepicker-input.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/datepicker/datepicker-input.metadata.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/datepicker/datepicker-month-view.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/datepicker/datepicker-month-view.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/datepicker/datepicker-month-view.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/datepicker/datepicker-month-view.metadata.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/datepicker/datepicker-navigation-select.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/datepicker/datepicker-navigation-select.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/datepicker/datepicker-navigation-select.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/datepicker/datepicker-navigation-select.metadata.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/datepicker/datepicker-navigation.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/datepicker/datepicker-navigation.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/datepicker/datepicker-navigation.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/datepicker/datepicker-navigation.metadata.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/datepicker/datepicker-service.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/datepicker/datepicker-service.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/datepicker/datepicker-service.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/datepicker/datepicker-service.metadata.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/datepicker/datepicker-view-model.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/datepicker/datepicker-view-model.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/datepicker/datepicker-view-model.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/datepicker/datepicker-view-model.metadata.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/datepicker/datepicker.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/datepicker/datepicker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/datepicker/datepicker.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/datepicker/datepicker.metadata.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/datepicker/datepicker.module.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/datepicker/datepicker.module.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/datepicker/datepicker.module.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/datepicker/datepicker.module.metadata.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/datepicker/ngb-calendar.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/datepicker/ngb-calendar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/datepicker/ngb-calendar.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/datepicker/ngb-calendar.metadata.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/datepicker/ngb-date-parser-formatter.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/datepicker/ngb-date-parser-formatter.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/datepicker/ngb-date-parser-formatter.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/datepicker/ngb-date-struct.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/datepicker/ngb-date-struct.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/datepicker/ngb-date-struct.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/datepicker/ngb-date.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/datepicker/ngb-date.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/datepicker/ngb-date.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/dropdown/dropdown-config.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/dropdown/dropdown-config.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/dropdown/dropdown-config.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/dropdown/dropdown-config.metadata.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/dropdown/dropdown.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/dropdown/dropdown.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/dropdown/dropdown.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/dropdown/dropdown.metadata.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/dropdown/dropdown.module.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/dropdown/dropdown.module.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/dropdown/dropdown.module.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/dropdown/dropdown.module.metadata.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/index.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/index.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/index.metadata.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/modal/modal-backdrop.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/modal/modal-backdrop.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/modal/modal-backdrop.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/modal/modal-backdrop.metadata.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/modal/modal-container.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/modal/modal-container.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/modal/modal-container.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/modal/modal-container.metadata.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/modal/modal-dismiss-reasons.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/modal/modal-dismiss-reasons.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/modal/modal-dismiss-reasons.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/modal/modal-dismiss-reasons.metadata.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/modal/modal-ref.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/modal/modal-ref.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/modal/modal-ref.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/modal/modal-ref.metadata.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/modal/modal-stack.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/modal/modal-stack.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/modal/modal-stack.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/modal/modal-stack.metadata.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/modal/modal-window.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/modal/modal-window.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/modal/modal-window.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/modal/modal-window.metadata.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/modal/modal.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/modal/modal.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/modal/modal.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/modal/modal.metadata.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/modal/modal.module.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/modal/modal.module.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/modal/modal.module.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/modal/modal.module.metadata.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/pagination/pagination-config.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/pagination/pagination-config.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/pagination/pagination-config.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/pagination/pagination-config.metadata.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/pagination/pagination.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/pagination/pagination.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/pagination/pagination.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/pagination/pagination.metadata.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/pagination/pagination.module.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/pagination/pagination.module.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/pagination/pagination.module.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/pagination/pagination.module.metadata.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/popover/popover-config.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/popover/popover-config.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/popover/popover-config.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/popover/popover-config.metadata.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/popover/popover.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/popover/popover.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/popover/popover.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/popover/popover.metadata.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/popover/popover.module.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/popover/popover.module.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/popover/popover.module.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/popover/popover.module.metadata.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/progressbar/progressbar-config.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/progressbar/progressbar-config.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/progressbar/progressbar-config.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/progressbar/progressbar-config.metadata.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/progressbar/progressbar.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/progressbar/progressbar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/progressbar/progressbar.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/progressbar/progressbar.metadata.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/progressbar/progressbar.module.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/progressbar/progressbar.module.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/progressbar/progressbar.module.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/progressbar/progressbar.module.metadata.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/rating/rating-config.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/rating/rating-config.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/rating/rating-config.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/rating/rating-config.metadata.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/rating/rating.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/rating/rating.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/rating/rating.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/rating/rating.metadata.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/rating/rating.module.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/rating/rating.module.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/rating/rating.module.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/rating/rating.module.metadata.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/tabset/tabset-config.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/tabset/tabset-config.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/tabset/tabset-config.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/tabset/tabset-config.metadata.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/tabset/tabset.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/tabset/tabset.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/tabset/tabset.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/tabset/tabset.metadata.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/tabset/tabset.module.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/tabset/tabset.module.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/tabset/tabset.module.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/tabset/tabset.module.metadata.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/timepicker/ngb-time-struct.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/timepicker/ngb-time-struct.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/timepicker/ngb-time-struct.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/timepicker/ngb-time.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/timepicker/ngb-time.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/timepicker/ngb-time.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/timepicker/timepicker-config.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/timepicker/timepicker-config.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/timepicker/timepicker-config.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/timepicker/timepicker-config.metadata.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/timepicker/timepicker.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/timepicker/timepicker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/timepicker/timepicker.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/timepicker/timepicker.metadata.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/timepicker/timepicker.module.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/timepicker/timepicker.module.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/timepicker/timepicker.module.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/timepicker/timepicker.module.metadata.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/tooltip/tooltip-config.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/tooltip/tooltip-config.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/tooltip/tooltip-config.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/tooltip/tooltip-config.metadata.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/tooltip/tooltip.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/tooltip/tooltip.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/tooltip/tooltip.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/tooltip/tooltip.metadata.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/tooltip/tooltip.module.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/tooltip/tooltip.module.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/tooltip/tooltip.module.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/tooltip/tooltip.module.metadata.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/typeahead/highlight.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/typeahead/highlight.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/typeahead/highlight.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/typeahead/highlight.metadata.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/typeahead/typeahead-config.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/typeahead/typeahead-config.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/typeahead/typeahead-config.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/typeahead/typeahead-config.metadata.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/typeahead/typeahead-window.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/typeahead/typeahead-window.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/typeahead/typeahead-window.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/typeahead/typeahead-window.metadata.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/typeahead/typeahead.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/typeahead/typeahead.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/typeahead/typeahead.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/typeahead/typeahead.metadata.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/typeahead/typeahead.module.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/typeahead/typeahead.module.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/typeahead/typeahead.module.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/typeahead/typeahead.module.metadata.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/util/popup.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/util/popup.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/util/popup.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/util/positioning.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/util/positioning.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/util/positioning.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/util/triggers.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/util/triggers.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/util/triggers.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/util/util.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/util/util.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/util/util.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/@ng-bootstrap/ng-bootstrap/util/util.metadata.json" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/npm-debug.log" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/e_change.iml" afterPath="$PROJECT_DIR$/.idea/e_change.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/agreement/agreement.html" afterPath="$PROJECT_DIR$/app/agreement/agreement.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/agreement/agreement.js" afterPath="$PROJECT_DIR$/app/agreement/agreement.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/agreement/agreement.js.map" afterPath="$PROJECT_DIR$/app/agreement/agreement.js.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/agreement/agreement.ts" afterPath="$PROJECT_DIR$/app/agreement/agreement.ts" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/appModule/app.module.js" afterPath="$PROJECT_DIR$/app/appModule/app.module.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/appModule/app.module.js.map" afterPath="$PROJECT_DIR$/app/appModule/app.module.js.map" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/appModule/app.module.ts" afterPath="$PROJECT_DIR$/app/appModule/app.module.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/login/LogIn.html" afterPath="$PROJECT_DIR$/app/login/LogIn.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/signup/signup.html" afterPath="$PROJECT_DIR$/app/signup/signup.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/signup/signup.js" afterPath="$PROJECT_DIR$/app/signup/signup.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/signup/signup.js.map" afterPath="$PROJECT_DIR$/app/signup/signup.js.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/signup/signup.ts" afterPath="$PROJECT_DIR$/app/signup/signup.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/listing/listing.html" afterPath="$PROJECT_DIR$/app/listing/listing.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/listing/listing.ts" afterPath="$PROJECT_DIR$/app/listing/listing.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/qr_code/qr_code.html" afterPath="$PROJECT_DIR$/app/qr_code/qr_code.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/settings/settings.html" afterPath="$PROJECT_DIR$/app/settings/settings.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/style.css" afterPath="$PROJECT_DIR$/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/systemjs.config.js" afterPath="$PROJECT_DIR$/systemjs.config.js" />
     </list>
     <ignored path="e_change.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -45,11 +344,110 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="header.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/appComponents/appHeader/header.html">
+      <file leaf-file-name="app.module.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/appModule/app.module.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="22" column="17" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
+            <state relative-caret-position="720">
+              <caret line="48" column="41" selection-start-line="48" selection-start-column="41" selection-end-line="48" selection-end-column="41" />
+              <folding>
+                <element signature="e#0#44#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="listing.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/listing/listing.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="435">
+              <caret line="35" column="79" selection-start-line="35" selection-start-column="79" selection-end-line="35" selection-end-column="79" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="settings.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/settings/settings.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+              <folding>
+                <element signature="e#41#81#0" expanded="false" />
+                <element signature="e#82#122#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="listing.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/listing/listing.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="account_settings.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/drop_downs/account_settings/account_settings.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="account_settings.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/drop_downs/account_settings/account_settings.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="my_account.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/drop_downs/my_account/my_account.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="my_account.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/drop_downs/my_account/my_account.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+              <folding>
+                <element signature="e#41#81#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="qr_code.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/qr_code/qr_code.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="12" column="3" selection-start-line="0" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+              <folding>
+                <element signature="e#41#81#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="details.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/details/details.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -61,8 +459,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="tsconfig.json" />
-        <option value="HTML File" />
         <option value="TypeScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -72,12 +470,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/tsconfig.json" />
-        <option value="$PROJECT_DIR$/systemjs.config.js" />
-        <option value="$PROJECT_DIR$/app/footer.ts" />
-        <option value="$PROJECT_DIR$/app/app.module.ts" />
-        <option value="$PROJECT_DIR$/app/footer.html" />
-        <option value="$PROJECT_DIR$/app/app.component.html" />
         <option value="$PROJECT_DIR$/app/app.component.ts" />
         <option value="$PROJECT_DIR$/app/LogIn.html" />
         <option value="$PROJECT_DIR$/app/signup.html" />
@@ -103,10 +495,8 @@
         <option value="$PROJECT_DIR$/app/appComponents/appFooter/footer.html" />
         <option value="$PROJECT_DIR$/app/appComponents/appHeader/header.ts" />
         <option value="$PROJECT_DIR$/app/appComponents/app.component.ts" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/style.css" />
         <option value="$PROJECT_DIR$/app/login/LogIn.html" />
-        <option value="$PROJECT_DIR$/app/agreement/agreement.html" />
         <option value="$PROJECT_DIR$/app/login/LogIn.ts" />
         <option value="$PROJECT_DIR$/app/agreement/agreement.ts" />
         <option value="$PROJECT_DIR$/app/signup/signup.ts" />
@@ -114,14 +504,23 @@
         <option value="$PROJECT_DIR$/app/QR_code/QR_code.html" />
         <option value="$PROJECT_DIR$/app/QR_code/QR_code.ts" />
         <option value="$PROJECT_DIR$/app/qr_code/qr_code.ts" />
-        <option value="$PROJECT_DIR$/app/listing/listing.ts" />
         <option value="$PROJECT_DIR$/app/settings/settings.ts" />
-        <option value="$PROJECT_DIR$/app/appModule/app.module.ts" />
         <option value="$PROJECT_DIR$/app/details/details.ts" />
-        <option value="$PROJECT_DIR$/app/settings/settings.html" />
-        <option value="$PROJECT_DIR$/app/qr_code/qr_code.html" />
-        <option value="$PROJECT_DIR$/app/listing/listing.html" />
         <option value="$PROJECT_DIR$/app/details/details.html" />
+        <option value="$PROJECT_DIR$/app/agreement/agreement.html" />
+        <option value="$PROJECT_DIR$/app/qr_code/qr_code.html" />
+        <option value="$PROJECT_DIR$/app/settings/settings.html" />
+        <option value="$PROJECT_DIR$/systemjs.config.js" />
+        <option value="$PROJECT_DIR$/app/listing/listing.ts" />
+        <option value="$PROJECT_DIR$/app/listing/date_picker/date_picker.ts" />
+        <option value="$PROJECT_DIR$/app/listing/date_picker/date_picker.html" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/app/drop_downs/my_account/my_account.ts" />
+        <option value="$PROJECT_DIR$/app/appModule/app.module.ts" />
+        <option value="$PROJECT_DIR$/app/drop_downs/my_account/my_account.html" />
+        <option value="$PROJECT_DIR$/app/drop_downs/account_settings/account_settings.html" />
+        <option value="$PROJECT_DIR$/app/drop_downs/account_settings/account_settings.ts" />
+        <option value="$PROJECT_DIR$/app/listing/listing.html" />
       </list>
     </option>
   </component>
@@ -166,6 +565,7 @@
     </navigator>
     <panes>
       <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -184,9 +584,174 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="angular2_basicskeleton" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="angular2_basicskeleton" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="angular2_basicskeleton" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="angular2_basicskeleton" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="signup" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="angular2_basicskeleton" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="angular2_basicskeleton" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="settings" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="angular2_basicskeleton" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="angular2_basicskeleton" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="qr_code" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="angular2_basicskeleton" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="angular2_basicskeleton" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="listing" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="angular2_basicskeleton" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="angular2_basicskeleton" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="img" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="angular2_basicskeleton" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="angular2_basicskeleton" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="drop_downs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="my_account" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="angular2_basicskeleton" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="angular2_basicskeleton" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="drop_downs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="angular2_basicskeleton" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="angular2_basicskeleton" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="drop_downs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="account_settings" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -216,19 +781,19 @@
     <property name="js.eslint.eslintPackage" value="" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/app/appComponents/appHeader" />
-      <recent name="$PROJECT_DIR$/app/appComponents/appFooter" />
-      <recent name="$PROJECT_DIR$/app/appComponents" />
-      <recent name="$PROJECT_DIR$/app" />
-      <recent name="$PROJECT_DIR$/app/Fonts" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/app/appComponents/appHeader" />
       <recent name="$PROJECT_DIR$/app/appComponents/appFooter" />
       <recent name="$PROJECT_DIR$/app/appComponents" />
       <recent name="$PROJECT_DIR$/app/login" />
       <recent name="$PROJECT_DIR$/app/signup" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/img" />
+      <recent name="$PROJECT_DIR$/app/appComponents/appHeader" />
+      <recent name="$PROJECT_DIR$/app/appComponents/appFooter" />
+      <recent name="$PROJECT_DIR$/app/appComponents" />
+      <recent name="$PROJECT_DIR$/app" />
     </key>
   </component>
   <component name="RunManager">
@@ -307,6 +872,7 @@
       <workItem from="1479988848100" duration="2258000" />
       <workItem from="1480049344556" duration="5248000" />
       <workItem from="1480055544442" duration="206000" />
+      <workItem from="1480066085601" duration="13271000" />
     </task>
     <task id="LOCAL-00001" summary="1. Components added.">
       <created>1479892444018</created>
@@ -361,13 +927,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="61026000" />
+    <option name="totallyTimeSpent" value="74297000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="24" width="1301" height="744" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2490392" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2490392" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32935917" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32935917" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -436,64 +1002,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/appComponents/appComponent/app.component.ts" />
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/systemjs.config.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="630">
-          <caret line="42" column="0" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/LogIn.js" />
-    <entry file="file://$PROJECT_DIR$/app/LogIn.js.map" />
-    <entry file="file://$PROJECT_DIR$/node_modules/font-awesome/css/font-awesome.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="30" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/appComponents/footer.html" />
-    <entry file="file://$PROJECT_DIR$/app/footer.js.map" />
-    <entry file="file://$PROJECT_DIR$/app/appModule/app.module.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/app.module.js" />
-    <entry file="file://$PROJECT_DIR$/app/app.component.js" />
-    <entry file="file://$PROJECT_DIR$/tsconfig.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/appModule/app.module.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/main.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -545,7 +1053,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -553,7 +1060,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
           <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -561,17 +1067,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="8" column="30" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/agreement/agreement.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-          <folding>
-            <element signature="n#style#0;n#p#0;n#form#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -613,41 +1108,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/login/LogIn.html">
+    <entry file="file://$PROJECT_DIR$/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="60" selection-start-line="11" selection-start-column="43" selection-end-line="11" selection-end-column="60" />
-          <folding>
-            <element signature="n#style#0;n#p#0;n#form#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="false" />
-          </folding>
+        <state relative-caret-position="2295">
+          <caret line="153" column="8" selection-start-line="153" selection-start-column="1" selection-end-line="153" selection-end-column="8" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/qr_code/qr_code.ts">
+    <entry file="file://$PROJECT_DIR$/app/appComponents/appHeader/header.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="12" column="3" selection-start-line="0" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-          <folding>
-            <element signature="e#41#81#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/settings/settings.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="14" column="21" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
-          <folding>
-            <element signature="e#41#81#0" expanded="false" />
-            <element signature="e#82#122#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/listing/listing.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="9" column="4" selection-start-line="0" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+        <state relative-caret-position="330">
+          <caret line="22" column="17" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
           <folding />
         </state>
       </provider>
@@ -662,52 +1134,106 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app/login/LogIn.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/agreement/agreement.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="91" selection-start-line="17" selection-start-column="91" selection-end-line="17" selection-end-column="91" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/qr_code/qr_code.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="43" selection-start-line="18" selection-start-column="43" selection-end-line="18" selection-end-column="43" />
-          <folding>
-            <element signature="n#style#0;n#p#0;n#form#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
-          </folding>
+        <state relative-caret-position="360">
+          <caret line="75" column="50" selection-start-line="75" selection-start-column="50" selection-end-line="75" selection-end-column="50" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/settings/settings.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="45" selection-start-line="17" selection-start-column="45" selection-end-line="17" selection-end-column="45" />
+        <state relative-caret-position="300">
+          <caret line="59" column="75" selection-start-line="59" selection-start-column="75" selection-end-line="59" selection-end-column="75" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/listing/listing.html">
+    <entry file="file://$PROJECT_DIR$/systemjs.config.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="26" column="63" selection-start-line="26" selection-start-column="63" selection-end-line="26" selection-end-column="63" />
+        <state relative-caret-position="312">
+          <caret line="26" column="12" selection-start-line="26" selection-start-column="12" selection-end-line="26" selection-end-column="12" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/appModule/app.module.ts">
+    <entry file="file://$PROJECT_DIR$/app/img/qr.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/img/eChange.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/img/Untitled-2.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/img/pic_pluse.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/listing/date_picker/date_picker.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-228">
-          <caret line="12" column="51" selection-start-line="12" selection-start-column="51" selection-end-line="12" selection-end-column="51" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/style.css">
+    <entry file="file://$PROJECT_DIR$/app/listing/date_picker/date_picker.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2295">
-          <caret line="153" column="8" selection-start-line="153" selection-start-column="1" selection-end-line="153" selection-end-column="8" />
+        <state relative-caret-position="120">
+          <caret line="8" column="108" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="108" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/listing/date_picker/date_picker.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="10" column="34" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
+          <folding>
+            <element signature="e#41#81#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/listing/listing.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="7" column="44" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="44" />
+          <folding>
+            <element signature="e#41#81#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="41" selection-start-line="2" selection-start-column="41" selection-end-line="2" selection-end-column="41" />
+        <state relative-caret-position="135">
+          <caret line="9" column="93" selection-start-line="9" selection-start-column="93" selection-end-line="9" selection-end-column="93" />
           <folding />
         </state>
       </provider>
@@ -720,10 +1246,91 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/appComponents/appHeader/header.html">
+    <entry file="file://$PROJECT_DIR$/app/qr_code/qr_code.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="17" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
+        <state relative-caret-position="150">
+          <caret line="12" column="3" selection-start-line="0" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding>
+            <element signature="e#41#81#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/appModule/app.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="48" column="41" selection-start-line="48" selection-start-column="41" selection-end-line="48" selection-end-column="41" />
+          <folding>
+            <element signature="e#0#44#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/drop_downs/my_account/my_account.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/drop_downs/my_account/my_account.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding>
+            <element signature="e#41#81#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/drop_downs/my_account/my_account.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="51" column="61" selection-start-line="51" selection-start-column="61" selection-end-line="51" selection-end-column="61" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/drop_downs/account_settings/account_settings.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/drop_downs/account_settings/account_settings.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/settings/settings.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding>
+            <element signature="e#41#81#0" expanded="false" />
+            <element signature="e#82#122#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/listing/listing.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/listing/listing.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="35" column="79" selection-start-line="35" selection-start-column="79" selection-end-line="35" selection-end-column="79" />
           <folding />
         </state>
       </provider>

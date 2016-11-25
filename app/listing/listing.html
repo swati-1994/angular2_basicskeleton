@@ -4,7 +4,8 @@
     <div class="container-fluid">
         <!-- Brand and toggle get grouped for better mobile display -->
         <div class="navbar-header">
-            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
+                    data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
                 <span class="sr-only">Toggle navigation</span>
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
@@ -17,19 +18,22 @@
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
 
             <ul class="nav navbar-nav navbar-right menu">
-                <li> <a routerLink="/qr_code">Generate QR Code</a></li>
-                <li><a routerLink="/listing" class="active" >My Listing</a></li>
-                <li><a routerLink="/settings" >Setting</a></li>
+                <li><a routerLink="/qr_code">Generate QR Code</a></li>
+                <li><a routerLink="/listing" class="active">My Listing</a></li>
+                <li><a routerLink="/settings">Setting</a></li>
 
                 <li class="user_manu dropdown">
-                    <a href="" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
-                        <div class="user_pic"><img src="http://images.clipartpanda.com/user-clipart-1195445301811339265dagobert83_female_user_icon.svg.med.png" width="195" height="195" alt=""/></div>
-                        <div class="user_name"><a routerLink="/details" >Fresh food retail store</a> </div>
+                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+                       aria-expanded="false">
+                        <div class="user_pic"><img
+                                src="http://images.clipartpanda.com/user-clipart-1195445301811339265dagobert83_female_user_icon.svg.med.png"
+                                width="195" height="195" alt=""/></div>
+                        <div class="user_name  dropdown-toggle">Fresh food retail store</div>
                         <span class="caret"></span>
                     </a>
                     <ul class="dropdown-menu">
-                        <li><a href="Detail.html">My Account</a></li>
-                        <li><a href="setting.html">Account Setting</a></li>
+                        <li><a routerLink="/my_account">My Account</a></li>
+                        <li><a  routerLink="/settings">Account Setting</a></li>
 
                         <li role="separator" class="divider"></li>
                         <li><a href="#"><i class="fa fa-power-off" aria-hidden="true"></i> Log out</a></li>
@@ -39,14 +43,10 @@
 
             </ul>
 
+
         </div><!-- /.navbar-collapse -->
     </div><!-- /.container-fluid -->
 </nav>
-
-
-
-
-
 
 
 <div class="main_caontainer">
@@ -62,14 +62,16 @@
 
                 <div class="col-sm-6 text-right text_left_767">
                     <div class="date_input">
-                        <i class="fa fa-calendar" aria-hidden="true"></i>
-                        <input type="text" placeholder="mm/dd/yy"></div>
+                        <ngbd-datepicker-popup></ngbd-datepicker-popup>
+                    </div>
                     to
-
                     <div class="date_input">
-                        <i class="fa fa-calendar" aria-hidden="true"></i>
-                        <input type="text" placeholder="mm/dd/yy"></div>
 
+                        <ngbd-datepicker-popup></ngbd-datepicker-popup>
+
+                        <!--<i class="fa fa-calendar" aria-hidden="true"></i>-->
+                        <!--<input type="text" placeholder="mm/dd/yy"></div>-->
+                    </div>
                 </div>
 
             </div><!--/listing_header-->
@@ -241,19 +243,18 @@
                     </tr>
 
 
-
                     </tbody>
                 </table>
 
 
             </div>
         </div><!--/listing_main-->
-        <div >
+        <div>
             <div class="pagi ">
                 <a href="" class="pre-nxt"><i class="fa fa-arrow-left" aria-hidden="true"></i>
                     Previous</a> <a href="" class="pagi-act">1</a> <a href="">2</a> <a href="">3</a>
                 <a href="" class="pre-nxt">Next <i class="fa fa-arrow-right" aria-hidden="true"></i>
-                </a> </div>
+                </a></div>
 
         </div>
 

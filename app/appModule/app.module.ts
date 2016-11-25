@@ -11,8 +11,14 @@ import {listingComponent} from "../listing/listing";
 import {qr_codeComponent} from "../qr_code/qr_code";
 import { settingsComponent} from "../settings/settings";
 import { detailsComponent} from "../details/details";
+import {NgbModule} from '@ng-bootstrap/ng-bootstrap';
+import { NgbdDatepickerPopup} from "../listing/date_picker/date_picker";
+import { FormsModule }   from '@angular/forms';
+import { my_accountComponent} from "../drop_downs/my_account/my_account";
+
+
 @NgModule({
-    imports: [BrowserModule,
+    imports: [BrowserModule,FormsModule,NgbModule.forRoot(),
         RouterModule.forRoot([
             {
                 path: 'signup',
@@ -21,6 +27,11 @@ import { detailsComponent} from "../details/details";
             {
                 path: 'login',
                 component: loginComponent
+            },
+
+            {
+                path: 'date_picker',
+                component: NgbdDatepickerPopup
             },
 
 
@@ -32,6 +43,10 @@ import { detailsComponent} from "../details/details";
             {
                 path: 'listing',
                 component: listingComponent
+            },
+            {
+                path: 'my_account',
+                component: my_accountComponent
             },
 
             {
@@ -56,7 +71,7 @@ import { detailsComponent} from "../details/details";
             }
         ])
     ],
-    declarations: [AppComponent, loginComponent, headerComponent, footerComponent, signupComponent,agreementComponent,listingComponent,qr_codeComponent,settingsComponent,detailsComponent],
+    declarations: [AppComponent, loginComponent, headerComponent, footerComponent, signupComponent,agreementComponent,listingComponent,qr_codeComponent,settingsComponent,detailsComponent,NgbdDatepickerPopup,my_accountComponent],
     bootstrap: [AppComponent]
 })
 export class AppModule {

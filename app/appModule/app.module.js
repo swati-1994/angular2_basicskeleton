@@ -21,12 +21,16 @@ var listing_1 = require("../listing/listing");
 var qr_code_1 = require("../qr_code/qr_code");
 var settings_1 = require("../settings/settings");
 var details_1 = require("../details/details");
+var ng_bootstrap_1 = require('@ng-bootstrap/ng-bootstrap');
+var date_picker_1 = require("../listing/date_picker/date_picker");
+var forms_1 = require('@angular/forms');
+var my_account_1 = require("../drop_downs/my_account/my_account");
 var AppModule = (function () {
     function AppModule() {
     }
     AppModule = __decorate([
         core_1.NgModule({
-            imports: [platform_browser_1.BrowserModule,
+            imports: [platform_browser_1.BrowserModule, forms_1.FormsModule, ng_bootstrap_1.NgbModule.forRoot(),
                 router_1.RouterModule.forRoot([
                     {
                         path: 'signup',
@@ -37,12 +41,20 @@ var AppModule = (function () {
                         component: LogIn_1.loginComponent
                     },
                     {
+                        path: 'date_picker',
+                        component: date_picker_1.NgbdDatepickerPopup
+                    },
+                    {
                         path: 'agreement',
                         component: agreement_1.agreementComponent
                     },
                     {
                         path: 'listing',
                         component: listing_1.listingComponent
+                    },
+                    {
+                        path: 'my_account',
+                        component: my_account_1.my_accountComponent
                     },
                     {
                         path: 'qr_code',
@@ -63,7 +75,7 @@ var AppModule = (function () {
                     }
                 ])
             ],
-            declarations: [app_component_1.AppComponent, LogIn_1.loginComponent, header_1.headerComponent, footer_1.footerComponent, signup_1.signupComponent, agreement_1.agreementComponent, listing_1.listingComponent, qr_code_1.qr_codeComponent, settings_1.settingsComponent, details_1.detailsComponent],
+            declarations: [app_component_1.AppComponent, LogIn_1.loginComponent, header_1.headerComponent, footer_1.footerComponent, signup_1.signupComponent, agreement_1.agreementComponent, listing_1.listingComponent, qr_code_1.qr_codeComponent, settings_1.settingsComponent, details_1.detailsComponent, date_picker_1.NgbdDatepickerPopup, my_account_1.my_accountComponent],
             bootstrap: [app_component_1.AppComponent]
         }), 
         __metadata('design:paramtypes', [])
