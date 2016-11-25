@@ -95,6 +95,8 @@ img{    max-width: 100%;
 
 .login_form [type=submit]{background:#009ddc; border:none; color:#ffffff; font-size:26px; padding:0;}
 
+.login_form button{background:#009ddc; border:none; color:#ffffff; font-size:26px; padding:8px; width: 100%;}
+
 .dont_account{font-size:18px; color:#a8a8a8;}
 .dont_account a{color:#009ddc; font-weight:bold;}
 

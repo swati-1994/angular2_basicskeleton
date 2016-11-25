@@ -12,15 +12,20 @@ var __metadata = (this && this.__metadata) || function (k, v) {
  * Created by swati on 25/11/16.
  */
 var core_1 = require('@angular/core');
+var router_1 = require('@angular/router');
 var agreementComponent = (function () {
-    function agreementComponent() {
+    function agreementComponent(router) {
+        this.router = router;
     }
+    agreementComponent.prototype.agree = function () {
+        this.router.navigate(['listing']);
+    };
     agreementComponent = __decorate([
         core_1.Component({
             selector: 'my-agreement',
             templateUrl: './app/agreement/agreement.html'
         }), 
-        __metadata('design:paramtypes', [])
+        __metadata('design:paramtypes', [router_1.Router])
     ], agreementComponent);
     return agreementComponent;
 }());

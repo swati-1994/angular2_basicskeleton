@@ -17,6 +17,10 @@ var footer_1 = require("../appComponents/appFooter/footer");
 var router_1 = require('@angular/router');
 var signup_1 = require("../signup/signup");
 var agreement_1 = require("../agreement/agreement");
+var listing_1 = require("../listing/listing");
+var qr_code_1 = require("../qr_code/qr_code");
+var settings_1 = require("../settings/settings");
+var details_1 = require("../details/details");
 var AppModule = (function () {
     function AppModule() {
     }
@@ -37,13 +41,29 @@ var AppModule = (function () {
                         component: agreement_1.agreementComponent
                     },
                     {
+                        path: 'listing',
+                        component: listing_1.listingComponent
+                    },
+                    {
+                        path: 'qr_code',
+                        component: qr_code_1.qr_codeComponent
+                    },
+                    {
+                        path: 'settings',
+                        component: settings_1.settingsComponent
+                    },
+                    {
+                        path: 'details',
+                        component: details_1.detailsComponent
+                    },
+                    {
                         path: '',
                         redirectTo: '/login',
                         pathMatch: 'full'
                     }
                 ])
             ],
-            declarations: [app_component_1.AppComponent, LogIn_1.loginComponent, header_1.headerComponent, footer_1.footerComponent, signup_1.signupComponent, agreement_1.agreementComponent],
+            declarations: [app_component_1.AppComponent, LogIn_1.loginComponent, header_1.headerComponent, footer_1.footerComponent, signup_1.signupComponent, agreement_1.agreementComponent, listing_1.listingComponent, qr_code_1.qr_codeComponent, settings_1.settingsComponent, details_1.detailsComponent],
             bootstrap: [app_component_1.AppComponent]
         }), 
         __metadata('design:paramtypes', [])

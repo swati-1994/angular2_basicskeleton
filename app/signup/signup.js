@@ -9,15 +9,21 @@ var __metadata = (this && this.__metadata) || function (k, v) {
     if (typeof Reflect === "object" && typeof Reflect.metadata === "function") return Reflect.metadata(k, v);
 };
 var core_1 = require('@angular/core');
+var router_1 = require('@angular/router');
 var signupComponent = (function () {
-    function signupComponent() {
+    function signupComponent(router) {
+        this.router = router;
     }
+    signupComponent.prototype.login = function () {
+        this.router.navigate(['agreement']);
+    };
     signupComponent = __decorate([
         core_1.Component({
             selector: 'my-signup',
-            templateUrl: './app/signup/signup.html'
+            templateUrl: './app/signup/signup.html',
+            providers: []
         }), 
-        __metadata('design:paramtypes', [])
+        __metadata('design:paramtypes', [router_1.Router])
     ], signupComponent);
     return signupComponent;
 }());

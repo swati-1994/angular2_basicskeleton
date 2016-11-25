@@ -1,0 +1,101 @@
+<nav class="navbar navbar-default top_header navbar-fixed-top">
+    <div class="container-fluid">
+        <!-- Brand and toggle get grouped for better mobile display -->
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a class="logo" href="#"><img src="images/eChange.png" width="142" height="41" alt=""/></a>
+        </div>
+
+        <!-- Collect the nav links, forms, and other content for toggling -->
+        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+
+            <ul class="nav navbar-nav navbar-right menu">
+                <li> <a routerLink="/qr_code" >Generate QR Code</a></li>
+                <li><a routerLink="/listing">My Listing</a></li>
+                <li><a routerLink="/settings" class="active">Setting</a></li>
+
+                <li class="user_manu dropdown">
+                    <a href="" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+                        <div class="user_pic"><img src="http://images.clipartpanda.com/user-clipart-1195445301811339265dagobert83_female_user_icon.svg.med.png" width="195" height="195" alt=""/></div>
+                        <div class="user_name">Fresh food retail store </div>
+                        <span class="caret"></span>
+                    </a>
+                    <ul class="dropdown-menu">
+                        <li><a href="Detail.html">My Account</a></li>
+                        <li><a href="setting.html">Account Setting</a></li>
+
+                        <li role="separator" class="divider"></li>
+                        <li><a href="#"><i class="fa fa-power-off" aria-hidden="true"></i> Log out</a></li>
+                    </ul>
+
+                </li>
+
+            </ul>
+
+        </div><!-- /.navbar-collapse -->
+    </div><!-- /.container-fluid -->
+</nav>
+
+
+<div class="main_caontainer">
+
+    <div class="container">
+
+
+        <div class="settings">
+            <table width="100%" cellspacing="10" class="">
+                <tbody>
+                <tr>
+                    <td colspan="2" align="left" valign="middle"><h1>Settings</h1></td>
+                </tr>
+                <tr>
+                    <td colspan="2" align="left" valign="middle" class="setting_row">
+                        <div class="change_pic">
+                            <a href="#" class=" user_change_pic"><img src="images/Untitled-2.png" class="user_img_setting" alt=""/></a>
+                            <div class="change_pic_icon"><img src="images/pic_pluse.png" alt=""/></div>
+                        </div>
+                    </td>
+                </tr>
+                <tr>
+                    <td width="25%" align="left" valign="middle">Name</td>
+                    <td width="75%" align="left" valign="middle"><input type="text" placeholder="Fresh food retail store"></td>
+                </tr>
+                <tr>
+                    <td align="left" valign="middle">Address</td>
+                    <td align="left" valign="middle"><input type="text" placeholder="Shop no.10, street 14, wall street, united"></td>
+                </tr>
+                <tr class="setting_row">
+                    <td colspan="2" align="left" valign="middle"><h1>Reset Password</h1></td>
+                </tr>
+                <tr>
+                    <td align="left" valign="middle">Old<br>Password</td>
+                    <td align="left" valign="middle"><input type="password" placeholder="**********"></td>
+                </tr>
+                <tr>
+                    <td align="left" valign="middle">New<br>Password</td>
+                    <td align="left" valign="middle"><input type="password" placeholder="**********"></td>
+                </tr>
+                <tr>
+                    <td align="left" valign="middle">Confirm<br>Password</td>
+                    <td align="left" valign="middle"><input type="password" placeholder="**********"></td>
+                </tr>
+                <tr>
+                    <td align="left" valign="middle">&nbsp;</td>
+                    <td align="right" valign="middle"><button class="btn settings_save">Save</button></td>
+                </tr>
+                </tbody>
+            </table>
+
+
+
+        </div><!--/settings-->
+
+    </div><!--/container-->
+
+</div><!--/main_caontainer-->
+
