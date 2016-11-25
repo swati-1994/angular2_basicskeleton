@@ -21,7 +21,7 @@ var loginComponent = (function () {
         core_1.Component({
             selector: 'my-login',
             templateUrl: './app/login/LogIn.html',
-            providers: [ROUTER_PROVIDERS]
+            providers: []
         }), 
         __metadata('design:paramtypes', [router_1.Router])
     ], loginComponent);

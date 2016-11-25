@@ -1,13 +1,15 @@
 import {Component} from '@angular/core';
-import { Router, } from '@angular/router';
+import {Router} from '@angular/router';
 
 @Component({
     selector: 'my-login',
     templateUrl: './app/login/LogIn.html',
-    providers: [ROUTER_PROVIDERS]
+    providers: []
 })
 export class loginComponent {
-    constructor(private router: Router) { }
+    constructor(private router: Router) {
+    }
+
     login() {
         this.router.navigate(['agreement']);
     }
