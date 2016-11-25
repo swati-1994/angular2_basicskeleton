@@ -8,24 +8,21 @@ var __decorate = (this && this.__decorate) || function (decorators, target, key,
 var __metadata = (this && this.__metadata) || function (k, v) {
     if (typeof Reflect === "object" && typeof Reflect.metadata === "function") return Reflect.metadata(k, v);
 };
+/**
+ * Created by swati on 25/11/16.
+ */
 var core_1 = require('@angular/core');
-var router_1 = require('@angular/router');
-var loginComponent = (function () {
-    function loginComponent(router) {
-        this.router = router;
+var agreementComponent = (function () {
+    function agreementComponent() {
     }
-    loginComponent.prototype.login = function () {
-        this.router.navigate(['agreement']);
-    };
-    loginComponent = __decorate([
+    agreementComponent = __decorate([
         core_1.Component({
-            selector: 'my-login',
-            templateUrl: './app/login/LogIn.html',
-            providers: [ROUTER_PROVIDERS]
+            selector: 'my-agreement',
+            templateUrl: './app/agreement/agreement.html'
         }), 
-        __metadata('design:paramtypes', [router_1.Router])
-    ], loginComponent);
-    return loginComponent;
+        __metadata('design:paramtypes', [])
+    ], agreementComponent);
+    return agreementComponent;
 }());
-exports.loginComponent = loginComponent;
-//# sourceMappingURL=LogIn.js.map
+exports.agreementComponent = agreementComponent;
+//# sourceMappingURL=agreement.js.map

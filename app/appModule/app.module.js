@@ -16,6 +16,7 @@ var header_1 = require("../appComponents/appHeader/header");
 var footer_1 = require("../appComponents/appFooter/footer");
 var router_1 = require('@angular/router');
 var signup_1 = require("../signup/signup");
+var agreement_1 = require("../agreement/agreement");
 var AppModule = (function () {
     function AppModule() {
     }
@@ -32,13 +33,17 @@ var AppModule = (function () {
                         component: LogIn_1.loginComponent
                     },
                     {
+                        path: 'agreement',
+                        component: agreement_1.agreementComponent
+                    },
+                    {
                         path: '',
                         redirectTo: '/login',
                         pathMatch: 'full'
                     }
                 ])
             ],
-            declarations: [app_component_1.AppComponent, LogIn_1.loginComponent, header_1.headerComponent, footer_1.footerComponent, signup_1.signupComponent],
+            declarations: [app_component_1.AppComponent, LogIn_1.loginComponent, header_1.headerComponent, footer_1.footerComponent, signup_1.signupComponent, agreement_1.agreementComponent],
             bootstrap: [app_component_1.AppComponent]
         }), 
         __metadata('design:paramtypes', [])

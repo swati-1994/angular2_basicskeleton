@@ -4,13 +4,13 @@
             <h1>Login</h1>
             <h2>Enthusiastically morph turnkey e-services and B2B bandwidth. Authoritatively impact long-term
                 high-impact.</h2>
-            <form class="login_form" action="../signup/signup.html">
-                <p style="display:none;">Erroe msg here</p>
+            <form class="login_form">
+                <p style="display:none;">Error msg here</p>
                 <label><input type="text" placeholder="Email address"></label>
                 <label><input type="text" placeholder="Password"></label>
                 <label><a href="#" class="forgot_pass">Forgot Password?</a></label>
-                <label><input type="submit" value="Login"></label>
-                <div class=" text-center dont_account"> Don't have account? <a href="#">Sign up</a></div>
+                <label><input (click)="login()" type="submit" value="Login"></label>
+                <div class=" text-center dont_account"> Don't have account? <a routerLink="/signup">Sign up</a></div>
             </form>
         </div><!--/login_box-->
     </div><!--/container-->
