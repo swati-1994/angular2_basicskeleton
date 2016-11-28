@@ -9,8 +9,9 @@
                 <label><input type="text" placeholder="Email address"></label>
                 <label><input type="text" placeholder="Password"></label>
                 <label><a href="#" class="forgot_pass">Forgot Password?</a></label>
-                <div><button type="button" (click)="login()" class="btn btn-primary">Login</button></div>
-                <div class=" text-center dont_account"> Don't have account? <a routerLink="/signup">Sign up</a></div>
+                <div><button type="button" (click)="getcredential()" class="btn btn-primary">Login</button></div>
+                <div class=" text-center dont_account"> Don't have account? {{blank}} <a routerLink="/signup">Sign up</a></div>
+
             </form>
         </div><!--/login_box-->
     </div><!--/container-->

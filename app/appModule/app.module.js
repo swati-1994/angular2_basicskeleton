@@ -28,6 +28,7 @@ var ng_bootstrap_1 = require('@ng-bootstrap/ng-bootstrap');
 var date_picker_1 = require("../listing/date_picker/date_picker");
 var forms_1 = require('@angular/forms');
 var my_account_1 = require("../drop_downs/my_account/my_account");
+var eChangeSevice_1 = require("../services/eChangeSevice");
 var AppModule = (function () {
     function AppModule() {
     }
@@ -79,6 +80,7 @@ var AppModule = (function () {
                 ])
             ],
             declarations: [app_component_1.AppComponent, LogIn_1.loginComponent, header_1.headerComponent, footer_1.footerComponent, signup_1.signupComponent, agreement_1.agreementComponent, listing_1.listingComponent, qr_code_1.qr_codeComponent, settings_1.settingsComponent, details_1.detailsComponent, date_picker_1.NgbdDatepickerPopup, my_account_1.my_accountComponent],
+            providers: [eChangeSevice_1.credentialService],
             bootstrap: [app_component_1.AppComponent]
         }), 
         __metadata('design:paramtypes', [])

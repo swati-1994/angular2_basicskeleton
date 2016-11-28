@@ -3,11 +3,11 @@ var InMemoryDataService = (function () {
     function InMemoryDataService() {
     }
     InMemoryDataService.prototype.createDb = function () {
-        var credential = [
+        var credentials = [
             { 'e-mail': 'swati@headerlabs.com', 'password': 'swati' },
             { 'e-mail': 'shivam@headerlabs.com', 'password': 'shivam' }
         ];
-        return { credential: credential };
+        return { credentials: credentials };
     };
     return InMemoryDataService;
 }());

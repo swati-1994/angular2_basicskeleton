@@ -12,13 +12,16 @@ var core_1 = require('@angular/core');
 var router_1 = require('@angular/router');
 var eChangeSevice_1 = require('../services/eChangeSevice');
 var loginComponent = (function () {
-    function loginComponent(router, credential_service) {
+    // private CredentialService: credentialService,
+    function loginComponent(router, CredentialService) {
         this.router = router;
-        this.credential_service = credential_service;
-        this.swati = [];
+        this.CredentialService = CredentialService;
     }
-    loginComponent.prototype.getRoot = function () {
-        return Promise.resolve(this.swati);
+    loginComponent.prototype.getcredential = function () {
+        var _this = this;
+        this.CredentialService
+            .getcredential()
+            .then(function (credentials) { return _this.blank = credentials; });
     };
     loginComponent = __decorate([
         core_1.Component({
@@ -31,9 +34,4 @@ var loginComponent = (function () {
     return loginComponent;
 }());
 exports.loginComponent = loginComponent;
-this.
-    login();
-{
-    this.router.navigate(['agreement']);
-}
 //# sourceMappingURL=LogIn.js.map

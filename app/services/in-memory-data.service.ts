@@ -6,10 +6,10 @@ import {credential} from '../services/data_type';
 export class InMemoryDataService implements InMemoryDbService {
     
     createDb() {
-        let credential =[
+        let credentials =[
             {'e-mail': 'swati@headerlabs.com', 'password': 'swati'},
             {'e-mail': 'shivam@headerlabs.com', 'password': 'shivam'}
         ]
-        return {credential};
+        return {credentials};
     }
 }

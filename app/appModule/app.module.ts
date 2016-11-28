@@ -21,6 +21,7 @@ import {NgbModule} from '@ng-bootstrap/ng-bootstrap';
 import { NgbdDatepickerPopup} from "../listing/date_picker/date_picker";
 import { FormsModule }   from '@angular/forms';
 import { my_accountComponent} from "../drop_downs/my_account/my_account";
+import {credentialService} from "../services/eChangeSevice";
 
 
 @NgModule({
@@ -78,6 +79,7 @@ import { my_accountComponent} from "../drop_downs/my_account/my_account";
         ])
     ],
     declarations: [AppComponent, loginComponent, headerComponent, footerComponent, signupComponent,agreementComponent,listingComponent,qr_codeComponent,settingsComponent,detailsComponent,NgbdDatepickerPopup,my_accountComponent],
+    providers: [ credentialService ],
     bootstrap: [AppComponent]
 })
 export class AppModule {

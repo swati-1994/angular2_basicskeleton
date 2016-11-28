@@ -15,17 +15,18 @@ require('rxjs/add/operator/toPromise');
 require('rxjs/add/operator/switchMap');
 var core_1 = require('@angular/core');
 var http_1 = require('@angular/http');
+require('rxjs/add/operator/toPromise');
 var credentialService = (function () {
     function credentialService(http) {
         this.http = http;
-        this.headers = new http_1.Headers({ 'Content-Type': 'application/json' });
+        this.credentialsUrl = 'app/credentials'; // URL to web api
     }
     credentialService.prototype.handleError = function (error) {
         console.error('An error occurred', error); // for demo purposes only
         return Promise.reject(error.message || error);
     };
-    credentialService.prototype.getRoot = function () {
-        return this.http.get('../services/in-memory-data-service')
+    credentialService.prototype.getcredential = function () {
+        return this.http.get(this.credentialsUrl)
             .toPromise()
             .then(function (response) { return response.json().data; })
             .catch(this.handleError);
