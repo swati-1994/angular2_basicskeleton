@@ -11,6 +11,12 @@ import {listingComponent} from "../listing/listing";
 import {qr_codeComponent} from "../qr_code/qr_code";
 import { settingsComponent} from "../settings/settings";
 import { detailsComponent} from "../details/details";
+import { HttpModule }    from '@angular/http';
+
+
+import { InMemoryWebApiModule } from 'angular-in-memory-web-api';
+import { InMemoryDataService  }  from '../services/in-memory-data.service';
+
 import {NgbModule} from '@ng-bootstrap/ng-bootstrap';
 import { NgbdDatepickerPopup} from "../listing/date_picker/date_picker";
 import { FormsModule }   from '@angular/forms';
@@ -18,7 +24,7 @@ import { my_accountComponent} from "../drop_downs/my_account/my_account";
 
 
 @NgModule({
-    imports: [BrowserModule,FormsModule,NgbModule.forRoot(),
+    imports: [BrowserModule,  HttpModule,FormsModule, InMemoryWebApiModule.forRoot(InMemoryDataService),NgbModule.forRoot(),
         RouterModule.forRoot([
             {
                 path: 'signup',

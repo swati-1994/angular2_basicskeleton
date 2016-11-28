@@ -10,12 +10,15 @@ var __metadata = (this && this.__metadata) || function (k, v) {
 };
 var core_1 = require('@angular/core');
 var router_1 = require('@angular/router');
+var eChangeSevice_1 = require('../services/eChangeSevice');
 var loginComponent = (function () {
-    function loginComponent(router) {
+    function loginComponent(router, credential_service) {
         this.router = router;
+        this.credential_service = credential_service;
+        this.swati = [];
     }
-    loginComponent.prototype.login = function () {
-        this.router.navigate(['agreement']);
+    loginComponent.prototype.getRoot = function () {
+        return Promise.resolve(this.swati);
     };
     loginComponent = __decorate([
         core_1.Component({
@@ -23,9 +26,14 @@ var loginComponent = (function () {
             templateUrl: './app/login/LogIn.html',
             providers: []
         }), 
-        __metadata('design:paramtypes', [router_1.Router])
+        __metadata('design:paramtypes', [router_1.Router, eChangeSevice_1.credentialService])
     ], loginComponent);
     return loginComponent;
 }());
 exports.loginComponent = loginComponent;
+this.
+    login();
+{
+    this.router.navigate(['agreement']);
+}
 //# sourceMappingURL=LogIn.js.map

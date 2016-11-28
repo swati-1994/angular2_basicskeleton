@@ -21,6 +21,9 @@ var listing_1 = require("../listing/listing");
 var qr_code_1 = require("../qr_code/qr_code");
 var settings_1 = require("../settings/settings");
 var details_1 = require("../details/details");
+var http_1 = require('@angular/http');
+var angular_in_memory_web_api_1 = require('angular-in-memory-web-api');
+var in_memory_data_service_1 = require('../services/in-memory-data.service');
 var ng_bootstrap_1 = require('@ng-bootstrap/ng-bootstrap');
 var date_picker_1 = require("../listing/date_picker/date_picker");
 var forms_1 = require('@angular/forms');
@@ -30,7 +33,7 @@ var AppModule = (function () {
     }
     AppModule = __decorate([
         core_1.NgModule({
-            imports: [platform_browser_1.BrowserModule, forms_1.FormsModule, ng_bootstrap_1.NgbModule.forRoot(),
+            imports: [platform_browser_1.BrowserModule, http_1.HttpModule, forms_1.FormsModule, angular_in_memory_web_api_1.InMemoryWebApiModule.forRoot(in_memory_data_service_1.InMemoryDataService), ng_bootstrap_1.NgbModule.forRoot(),
                 router_1.RouterModule.forRoot([
                     {
                         path: 'signup',
