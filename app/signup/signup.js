@@ -10,11 +10,29 @@ var __metadata = (this && this.__metadata) || function (k, v) {
 };
 var core_1 = require('@angular/core');
 var router_1 = require('@angular/router');
+var eChangeSevice_1 = require('../services/eChangeSevice');
 var signupComponent = (function () {
-    function signupComponent(router) {
+    function signupComponent(router, CredentialService) {
         this.router = router;
+        this.CredentialService = CredentialService;
+        this.signup_user = {
+            'email': '',
+            'password': '',
+            'first_name': '',
+            'last_name': ''
+        };
     }
-    signupComponent.prototype.login = function () {
+    signupComponent.prototype.signUp = function () {
+        console.log("user details:" + JSON.stringify(this.signup_user));
+        var email = this.signup_user.email;
+        var password = this.signup_user.password;
+        var first_name = this.signup_user.first_name;
+        var last_name = this.signup_user.last_name;
+        if (!this.signup_user) {
+            return;
+        }
+        this.CredentialService.create(this.signup_user)
+            .then(function () { });
         this.router.navigate(['agreement']);
     };
     signupComponent = __decorate([
@@ -23,7 +41,7 @@ var signupComponent = (function () {
             templateUrl: './app/signup/signup.html',
             providers: []
         }), 
-        __metadata('design:paramtypes', [router_1.Router])
+        __metadata('design:paramtypes', [router_1.Router, eChangeSevice_1.credentialService])
     ], signupComponent);
     return signupComponent;
 }());

@@ -6,15 +6,19 @@
                 high-impact.</h2>
             <form class="login_form" action="agreement.html">
                 <p style="display:none;">Erroe msg here</p>
-                <label><input type="text" id="" placeholder="First name"></label>
-                <label><input type="text" id="" placeholder="Last name"></label>
-                <label><input type="text" id="" placeholder="Email address"></label>
-                <label><input type="text" id="" placeholder="Password"></label>
+                <label><input type="text" id="" placeholder="First name" id="first_name" [(ngModel)]="signup_user.first_name"  name="first_name"  ></label>
+                <label><input type="text" id="" placeholder="Last name"  id="last_name" [(ngModel)]="signup_user.last_name"  name="last_name"    ></label>
+                <label><input type="text" id="" placeholder="Email address"   id="email" [(ngModel)]="signup_user.email"  name="email" ></label>
+                <label><input type="text" id="" placeholder="Password"  id="password" [(ngModel)]="signup_user.password"  name="password"  ></label>
                 <p>&nbsp;</p>
                 <!--<label><input type="submit" id="" value="Sign up" (click)="login()"></label>-->
 
-                <button type="button" class="btn btn-default"   (click)="login()">Sign up</button>
+                <!--<button (click)="add(heroName.value); heroName.value=''">-->
+                <!---->
+
+                <button type="button" class="btn btn-default"   (click)="signUp( signup_user) ; signup_user=''">Sign up</button>
                 <div class=" text-center dont_account"> Already have an account? <a href="#">Log in</a></div>
+                {{user_list}}
             </form>
         </div><!--/login_box-->
 

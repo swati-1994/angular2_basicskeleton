@@ -10,7 +10,7 @@ export class InMemoryDataService implements InMemoryDbService {
             {'email': 'swati@headerlabs.com', 'password': 'swati'},
             {'email': 'shivam@headerlabs.com', 'password': 'shivam'},
             {'email':'gultu@headerlabs.com', 'password':'gultu'  },
-            {'email':'gurinder@headerlabs.com', 'password':'gurdinder'  },
+            {'email':'gurinder@headerlabs.com', 'password':'gurdinder'},
         ]
         return {credentials};
     }

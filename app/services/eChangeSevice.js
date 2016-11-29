@@ -19,6 +19,7 @@ require('rxjs/add/operator/toPromise');
 var credentialService = (function () {
     function credentialService(http) {
         this.http = http;
+        this.headers = new http_1.Headers({ 'Content-Type': 'application/json' });
         this.credentialsUrl = 'app/credentials'; // URL to web api
     }
     credentialService.prototype.handleError = function (error) {
@@ -29,6 +30,13 @@ var credentialService = (function () {
         return this.http.get(this.credentialsUrl)
             .toPromise()
             .then(function (response) { return response.json().data; })
+            .catch(this.handleError);
+    };
+    credentialService.prototype.create = function (signup_user) {
+        return this.http
+            .post(this.credentialsUrl, JSON.stringify(signup_user), { headers: this.headers })
+            .toPromise()
+            .then(function (res) { return res.json().data; })
             .catch(this.handleError);
     };
     credentialService = __decorate([
