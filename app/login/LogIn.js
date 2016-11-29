@@ -17,6 +17,7 @@ var loginComponent = (function () {
     function loginComponent(router, CredentialService) {
         this.router = router;
         this.CredentialService = CredentialService;
+        this.user = {};
     }
     loginComponent.prototype.ngOnInit = function () {
         var _this = this;
@@ -25,16 +26,14 @@ var loginComponent = (function () {
             .then(function (credentials) { return _this.user_list = credentials; });
     };
     loginComponent.prototype.login = function () {
-        // console.log("hiiii" + JSON.stringify(_.findWhere(this.user_list, {email: "swati@headerlabs.com"})));
-        if (JSON.stringify(_.findWhere(this.user_list, { email: "swati@headerlab" }))) {
+        console.log(JSON.stringify(_.findWhere(this.user_list, this.user)));
+        if (_.findWhere(this.user_list, this.user)) {
             this.router.navigate(['agreement']);
             console.log("logged in");
         }
         else {
             console.log("could not log in");
         }
-        //        _.findWhere(this.user_list, {email: "swati@headerlabs.com"});
-        // this.router.navigate(['agreement']);
     };
     loginComponent = __decorate([
         core_1.Component({

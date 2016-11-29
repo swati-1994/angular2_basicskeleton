@@ -13,8 +13,8 @@ export class loginComponent implements OnInit {
     // private CredentialService: credentialService,
     constructor(private router:Router, private CredentialService:credentialService) {
     }
-
     user_list:credential[];
+    user = {};
 
     ngOnInit():void {
         this.CredentialService
@@ -23,21 +23,13 @@ export class loginComponent implements OnInit {
     }
 
     login() {
-
-        // console.log("hiiii" + JSON.stringify(_.findWhere(this.user_list, {email: "swati@headerlabs.com"})));
-
-
-        if( JSON.stringify(_.findWhere(this.user_list, {email: "swati@headerlab"}))) {
+        console.log(JSON.stringify(_.findWhere(this.user_list, this.user)));
+        if (_.findWhere(this.user_list, this.user)) {
             this.router.navigate(['agreement']);
-
-console.log("logged in");
+            console.log("logged in");
         }
-        else{
-
+        else {
             console.log("could not log in");
         }
-
-//        _.findWhere(this.user_list, {email: "swati@headerlabs.com"});
-        // this.router.navigate(['agreement']);
     }
 }
