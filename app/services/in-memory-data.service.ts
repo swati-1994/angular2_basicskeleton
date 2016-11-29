@@ -7,8 +7,10 @@ export class InMemoryDataService implements InMemoryDbService {
     
     createDb() {
         let credentials =[
-            {'e-mail': 'swati@headerlabs.com', 'password': 'swati'},
-            {'e-mail': 'shivam@headerlabs.com', 'password': 'shivam'}
+            {'email': 'swati@headerlabs.com', 'password': 'swati'},
+            {'email': 'shivam@headerlabs.com', 'password': 'shivam'},
+            {'email':'gultu@headerlabs.com', 'password':'gultu'  },
+            {'email':'gurinder@headerlabs.com', 'password':'gurdinder'  },
         ]
         return {credentials};
     }

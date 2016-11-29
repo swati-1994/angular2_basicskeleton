@@ -6,12 +6,12 @@
                 high-impact.</h2>
             <form class="login_form">
                 <p style="display:none;">Error msg here</p>
-                <label><input type="text" placeholder="Email address"></label>
+                <label><input type="text" placeholder="Email address"   ></label>
                 <label><input type="text" placeholder="Password"></label>
                 <label><a href="#" class="forgot_pass">Forgot Password?</a></label>
-                <div><button type="button" (click)="getcredential()" class="btn btn-primary">Login</button></div>
-                <div class=" text-center dont_account"> Don't have account? {{blank}} <a routerLink="/signup">Sign up</a></div>
-
+                <div><button type="button"  (click)="login()" class="btn btn-primary"    >Login</button></div>
+                <div class=" text-center dont_account"> Don't have account? {{user_list}}
+                    <a routerLink="/signup">Sign up</a></div>
             </form>
         </div><!--/login_box-->
     </div><!--/container-->

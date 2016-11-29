@@ -11,17 +11,30 @@ var __metadata = (this && this.__metadata) || function (k, v) {
 var core_1 = require('@angular/core');
 var router_1 = require('@angular/router');
 var eChangeSevice_1 = require('../services/eChangeSevice');
+var _ = require('underscore');
 var loginComponent = (function () {
     // private CredentialService: credentialService,
     function loginComponent(router, CredentialService) {
         this.router = router;
         this.CredentialService = CredentialService;
     }
-    loginComponent.prototype.getcredential = function () {
+    loginComponent.prototype.ngOnInit = function () {
         var _this = this;
         this.CredentialService
             .getcredential()
-            .then(function (credentials) { return _this.blank = credentials; });
+            .then(function (credentials) { return _this.user_list = credentials; });
+    };
+    loginComponent.prototype.login = function () {
+        // console.log("hiiii" + JSON.stringify(_.findWhere(this.user_list, {email: "swati@headerlabs.com"})));
+        if (JSON.stringify(_.findWhere(this.user_list, { email: "swati@headerlab" }))) {
+            this.router.navigate(['agreement']);
+            console.log("logged in");
+        }
+        else {
+            console.log("could not log in");
+        }
+        //        _.findWhere(this.user_list, {email: "swati@headerlabs.com"});
+        // this.router.navigate(['agreement']);
     };
     loginComponent = __decorate([
         core_1.Component({
