@@ -6,10 +6,14 @@
                 high-impact.</h2>
             <form class="login_form">
                 <p style="display:none;">Error msg here</p>
-                <label><input type="text" placeholder="Email address"   ></label>
-                <label><input type="text" placeholder="Password"></label>
+                <label><input type="text" placeholder="Email address" [(ngModel)]="user.email"
+                              [ngModelOptions]="{standalone: true}"></label>
+                <label><input type="text" placeholder="Password" [(ngModel)]="user.password"
+                              [ngModelOptions]="{standalone: true}"></label>
                 <label><a href="#" class="forgot_pass">Forgot Password?</a></label>
-                <div><button type="button"  (click)="login()" class="btn btn-primary"    >Login</button></div>
+                <div>
+                    <button type="button" (click)="login()" class="btn btn-primary">Login</button>
+                </div>
                 <div class=" text-center dont_account"> Don't have account? {{user_list}}
                     <a routerLink="/signup">Sign up</a></div>
             </form>

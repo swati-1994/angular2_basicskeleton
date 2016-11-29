@@ -11,31 +11,30 @@ import * as _ from 'underscore';
 export class loginComponent implements OnInit {
 
     // private CredentialService: credentialService,
-    constructor(private router:Router, private CredentialService:credentialService) {
+    constructor(private router: Router, private CredentialService: credentialService) {
     }
 
-    user_list:credential[];
+    user_list: credential[];
+    user = {};
 
-    ngOnInit():void {
+    ngOnInit(): void {
         this.CredentialService
             .getcredential()
             .then(credentials => this.user_list = credentials);
     }
 
     login() {
-
+        console.log("User : ", JSON.stringify(this.user));
         // console.log("hiiii" + JSON.stringify(_.findWhere(this.user_list, {email: "swati@headerlabs.com"})));
-
-
-        if( JSON.stringify(_.findWhere(this.user_list, {email: "swati@headerlab"}))) {
-            this.router.navigate(['agreement']);
-
-console.log("logged in");
-        }
-        else{
-
-            console.log("could not log in");
-        }
+        // if (JSON.stringify(_.findWhere(this.user_list, {email: "swati@headerlab"}))) {
+        //     this.router.navigate(['agreement']);
+        //
+        //     console.log("logged in");
+        // }
+        // else {
+        //
+        //     console.log("could not log in");
+        // }
 
 //        _.findWhere(this.user_list, {email: "swati@headerlabs.com"});
         // this.router.navigate(['agreement']);
